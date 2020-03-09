@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-
+#### Interests
+* Computational Neuroscience, Neuromorphic Engineering
+* Financial Engineering, Econophysics
 
 #### Education
 
