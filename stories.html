@@ -16,12 +16,14 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
       
-      <div class="tags">
-        {% for tag in post.tags %}
+
+      <div class="tags2">
+        {% for tag in post.tags2 %}
           <div class="tag {{tag}}">{{tag}}</div>
         {% endfor %}
       </div>
 
+      
     </article>
   {% endfor %}
 </div>
@@ -34,20 +36,20 @@ layout: default
 
 	<script>
 		var getTagNamesFromPost = function(post){
-			var tags = post.querySelectorAll(".tag");
+			var tags2 = post.querySelectorAll(".tag");
 			var tagNames = [];
-				for(var i = 0; i < tags.length; i++)
+				for(var i = 0; i < tags2.length; i++)
 				{
-					var tag = tags[i];
+					var tag = t
 					var tagName = tag.classList[1];
 					tagNames.push(tagName);
 				}
 			return tagNames;
 		}
 
-		var getTagsAndstories = function(stories){
+		var gettags2Andstories = function(stories){
 			var allTagNames = [];
-			var tagsAndstories = {};
+			var tags2Andstories = {};
 
 			for(var i = 0; i < stories.length; i++)
 			{
@@ -59,14 +61,14 @@ layout: default
 					var tagName = tagNames[j];
 					allTagNames.push(tagName)
 
-					if(tagsAndstories[tagName] === undefined)
-						tagsAndstories[tagName] = [i];
+					if(tags2Andstories[tagName] === undefined)
+						tags2Andstories[tagName] = [i];
 					else
-						tagsAndstories[tagName].push(i);
+						tags2Andstories[tagName].push(i);
 				}
 			}
 
-			return tagsAndstories;
+			return tags2Andstories;
 		};
 		var addClass = function(element, className){
 			if (element.classList)
@@ -100,39 +102,39 @@ layout: default
 			element.className = element.className.replace(className, "");
 		};
 
-		var removeSelectedClassFromAllTags = function(tagsAndTagSelectorElements, selectedClass){
-			for(var tagName in tagsAndTagSelectorElements)
+		var removeSelectedClassFromAlltags2 = function(tags2Andtags2electorElements, selectedClass){
+			for(var tagName in tags2Andtags2electorElements)
 			{
-				if(tagsAndTagSelectorElements.hasOwnProperty(tagName))
+				if(tags2Andtags2electorElements.hasOwnProperty(tagName))
 				{
-					removeClass(tagsAndTagSelectorElements[tagName], selectedClass);
+					removeClass(tags2Andtags2electorElements[tagName], selectedClass);
 				}
 			}
 		};
 
 		document.addEventListener("DOMContentLoaded", function(event) { 
 			var stories = document.querySelectorAll('.post');
-			var tagsAndstories = getTagsAndstories(stories);
+			var tags2Andstories = gettags2Andstories(stories);
 
 			var divElement = document.createElement("div");
 			addClass(divElement, "tag-selectors");
 
 			var clearText = "clear";
-			var clearTagsElement = document.createElement("p");
-			addClass(clearTagsElement, "clear-tags");
-			clearTagsElement.innerText = clearText;
-			divElement.appendChild(clearTagsElement);
+			var cleartags2Element = document.createElement("p");
+			addClass(cleartags2Element, "clear-tags2");
+			cleartags2Element.innerText = clearText;
+			divElement.appendChild(cleartags2Element);
 
 			var selectedClass = "selected";
 
-			var tagsAndTagSelectorElements = {}
-			tagsAndTagSelectorElements[clearText] = clearTagsElement;
+			var tags2Andtags2electorElements = {}
+			tags2Andtags2electorElements[clearText] = cleartags2Element;
 
-			for(var tagName in tagsAndstories)
+			for(var tagName in tags2Andstories)
 			{
-				if(tagsAndstories.hasOwnProperty(tagName))
+				if(tags2Andstories.hasOwnProperty(tagName))
 				{
-					var storiesContainingTag = tagsAndstories[tagName];
+					var storiesContainingTag = tags2Andstories[tagName];
 					var numberOfstories = storiesContainingTag.length;
 					var classToAdd = "count-" + numberOfstories;
 
@@ -141,7 +143,7 @@ layout: default
 					addClass(tagPElement, classToAdd);
 					tagPElement.textContent = tagName;
 
-					tagsAndTagSelectorElements[tagName] = tagPElement;
+					tags2Andtags2electorElements[tagName] = tagPElement;
 
 					divElement.appendChild(tagPElement);
 				}
@@ -149,20 +151,20 @@ layout: default
 
 			var clearShowing = "showing";
 
-			for(var tagName in tagsAndTagSelectorElements)
+			for(var tagName in tags2Andtags2electorElements)
 			{
-				if(tagsAndTagSelectorElements.hasOwnProperty(tagName))
+				if(tags2Andtags2electorElements.hasOwnProperty(tagName))
 				{
-					tagsAndTagSelectorElements[tagName]
+					tags2Andtags2electorElements[tagName]
 						.addEventListener("click", 
 						function(eventObj) {
 							var tagName = eventObj.currentTarget.innerText;
 
-							removeSelectedClassFromAllTags(tagsAndTagSelectorElements, selectedClass);
+							removeSelectedClassFromAlltags2(tags2Andtags2electorElements, selectedClass);
 
 							if(tagName === clearText)
 							{
-								removeClass(clearTagsElement, clearShowing);
+								removeClass(cleartags2Element, clearShowing);
 								var allstories = [];
 								for(var n = 0; n < stories.length; n++)
 									allstories.push(n);
@@ -170,9 +172,9 @@ layout: default
 								displaystories(stories, allstories);
 								return;
 							}
-							addClass(clearTagsElement, clearShowing);
-							addClass(tagsAndTagSelectorElements[tagName], selectedClass);
-							var storiesToShow = tagsAndstories[tagName];
+							addClass(cleartags2Element, clearShowing);
+							addClass(tags2Andtags2electorElements[tagName], selectedClass);
+							var storiesToShow = tags2Andstories[tagName];
 							displaystories(stories, storiesToShow);
 						});
 				}
