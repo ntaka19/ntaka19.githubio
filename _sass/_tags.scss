@@ -48,6 +48,34 @@ $tagColour: lightblue;
 }
 
 
+div.tags
+{
+    margin-top: 10px;
+    height: 30px;
+}
+
+p.filter-caption
+{
+    @include tag-button(yellow);
+}
+
+div.tag
+{
+    display: inline;
+    padding: 5px;
+    @include tag-button($tagColour);
+    width: 50px;
+}
+
+$clearWritingColour: black;
+
+p.clear-tags
+{
+    @include tag-button(lightgreen);
+}
+
+
+
 .stories
 {
     width: 78%;
