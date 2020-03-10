@@ -47,6 +47,37 @@ $tagColour: lightblue;
 
 }
 
+
+.stories
+{
+    width: 78%;
+    display: inline-block;
+}
+
+#tag-pane
+{
+    width: 20%;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 30px;
+
+    div.tag-selectors
+    {
+        p.tag-selector
+        {
+            text-align: center;   
+            @include tag-button($tagColour);
+        }
+
+        p.selected
+        {
+            @include selected-button();
+        }
+    }
+
+}
+
+
 div.tags
 {
     margin-top: 10px;
