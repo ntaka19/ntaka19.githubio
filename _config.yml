@@ -85,7 +85,7 @@ gems:
 
 collections:
   stories:
-    permalink: /:path/
+    permalink: /stories/:path/
 
 # Exclude these files from your production _site
 exclude:
