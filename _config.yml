@@ -87,6 +87,7 @@ collections:
   stories:
     permalink: /stories/:path/
     output: true
+    #jekyll render とはmarkdownで使えるということ？
 
 # Exclude these files from your production _site
 exclude:

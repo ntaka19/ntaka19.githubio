@@ -4,9 +4,11 @@ $tagColour: lightblue;
 {
     border-radius: 15px;
     background: $colour;
-    height: 30px; 
+    height: 20px; 
     vertical-align: middle;
     text-align: center;   
+    font-size: 15px;
+    width: 50px;
 }
 
 @mixin selected-button()
@@ -14,8 +16,10 @@ $tagColour: lightblue;
     border-radius: 15px;
     background: darkblue;
     color: white;
-    height: 35px; 
+    height: 20px; 
     vertical-align: middle;
+    font-size: 15px;
+    width: 50px;
 }
 
 .posts
@@ -56,7 +60,7 @@ div.tags
 
 p.filter-caption
 {
-    @include tag-button(lightgreen);
+    @include tag-button(white);
 }
 
 div.tag
@@ -71,6 +75,6 @@ $clearWritingColour: black;
 
 p.clear-tags
 {
-    @include tag-button(lightgreen);
+    @include tag-button(Gray);
 }
 
