@@ -18,6 +18,12 @@ $$
 $$
 
 
+## Perfect competition
+
+
+## Impe
+
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
