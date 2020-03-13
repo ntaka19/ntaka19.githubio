@@ -11,6 +11,18 @@ $tagColour: lightblue;
     width: 80px;
 }
 
+@mixin tag-button1($colour)
+{
+    border-radius: 15px;
+    background: $colour;
+    height: 20px; 
+    vertical-align: middle;
+    text-align: center;   
+    font-size: 15px;
+    width: 120px;
+}
+
+
 @mixin selected-button()
 {
     border-radius: 15px;
@@ -60,7 +72,7 @@ div.tags
 
 p.filter-caption
 {
-    @include tag-button(white);
+    @include tag-button1(white);
 }
 
 div.tag
