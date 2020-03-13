@@ -30,7 +30,9 @@ $$
 ## Under Perfect competition
 
 $$
+\begin{equation}
 Price = AR = MR
+\end{equation}
 $$
 
 ## Under Imperfect competition
