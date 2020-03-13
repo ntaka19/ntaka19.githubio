@@ -18,6 +18,8 @@ $$
 $$
 
 
+## Revenue and Cost
+
 | Revenue | Cost |
 ----|---- 
 | AR | A |
@@ -25,10 +27,10 @@ $$
 
 
 
-## Perfect competition
+## Under Perfect competition
 
 
-## Imperfect competition
+## Under Imperfect competition
 
 
 
