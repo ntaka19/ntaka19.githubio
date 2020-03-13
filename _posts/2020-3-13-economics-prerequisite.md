@@ -18,10 +18,18 @@ $$
 $$
 
 
+| Revenue | Cost |
+----|---- 
+| AR | A |
+| TD2 | TD4 |
+
+
+
 ## Perfect competition
 
 
-## Impe
+## Imperfect competition
+
 
 
 
