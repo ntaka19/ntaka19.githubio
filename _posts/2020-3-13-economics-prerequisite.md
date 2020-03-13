@@ -22,13 +22,16 @@ $$
 
 | Revenue | Cost |
 ----|---- 
-| AR | A |
-| TD2 | TD4 |
+| Average Revenue  | Average Cost |
+| Marginal Revenue | TD4 |
 
 
 
 ## Under Perfect competition
 
+$$
+Price = AR = MR
+$$
 
 ## Under Imperfect competition
 
