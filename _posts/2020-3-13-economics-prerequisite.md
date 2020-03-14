@@ -44,9 +44,10 @@ $$
 Here, "Average" means averaging by supplied quantity. 
 
 $$
-\begin{equation}
-\frac{\partial }{\partial Q} \frac{TC}{Q}
-\end{equation}
+\begin{align*}
+\frac{\partial ATC}{\partial Q} = \frac{\partial }{\partial Q} \frac{TC}{Q} \\
+= \frac{1}{Q} \frac{\partial TC}{\partial Q} + TC(-\frac{1}{Q^2}) \leq (\geq) 0
+\end{align*}
 $$
 
 
