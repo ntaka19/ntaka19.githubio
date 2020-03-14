@@ -45,6 +45,7 @@ Here, "Average" means averaging by supplied quantity.
 
 
 Regarding the cost curve, 
+
 $$
 \begin{aligned}
 & \frac{\partial TC}{\partial Q} = \frac{\partial }{\partial Q} (\frac{TC}{Q}) \\
