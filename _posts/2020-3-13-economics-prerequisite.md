@@ -7,7 +7,7 @@ tags:
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-Following article constitues mainly notes on prerequisite material on Ecnomomics given from the CFAI and can be found here:
+Following article constitues mainly notes on prerequisite material on Ecomomics given from the CFAI and can be found here:
 
 
 $$
@@ -43,8 +43,9 @@ Here, "Average" means averaging by supplied quantity.
 
 
 
-## Under Perfect competition
+## Under Perfect Competition
 Under perfect competition, we assume that all are firms price takers.
+Market equilibrium decides price value for all firms and for each firm, the price is kept constant.
 
 (Price taker: Price is given 
 
@@ -58,7 +59,7 @@ Price = AR = MR
 \end{equation}
 $$
 
-## Under Imperfect competition
+## Under Imperfect Competition
 
 
 
