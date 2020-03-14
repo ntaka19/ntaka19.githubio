@@ -47,6 +47,12 @@ $$
 \begin{aligned}
 & \frac{\partial AVC}{\partial Q} = \frac{\partial }{\partial Q} \left( \frac{TVC}{Q} \right) \\
 & \frac{1}{Q} \frac{\partial TVC}{\partial Q} + TVC(-\frac{1}{Q^2}) \leq 0 \\
+\end{aligned}
+$$
+therefore, 
+
+$$
+\begin{aligned}
 & \frac{\partial TVC}{\partial Q} = \frac{\partial TC}{\partial Q} \leq \frac{TVC}{Q} \\
 & MC  \leq AVC
 \end{aligned}
