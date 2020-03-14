@@ -50,6 +50,9 @@ $$
 \end{aligned}
 $$
 
+Since the relation holds for opposite inequality, we can understand that
+MC curve and 
+
 From the derivation, it is easy to see that relation between MC and ATC is equivalent with AVC (AVC can also be replaced with ATC). 
 
 
