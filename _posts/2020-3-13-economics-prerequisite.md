@@ -31,11 +31,14 @@ Normal profit:
 | Revenue | Cost |
 ----|---- 
 | Total Revenue (TR)  | Total Cost (TC) |
-| Average Revenue (AR)  | Average Total Cost (ATC) |
+| Average Revenue (AR)  | Average Total Cost (ATC) [^1]|
 |   | Average Fixed Cost (AFC) |
 |   | Average Variable Cost (AVC) |
 | Marginal Revenue (MR) | Marginal Cost (MC) |
+[^1]: Total Cost = Fixed Cost + Variable Cost
 
+
+Here, "Average" means averaging by supplied quantity. 
 
 
 
