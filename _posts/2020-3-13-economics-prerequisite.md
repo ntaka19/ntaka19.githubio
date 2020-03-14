@@ -17,13 +17,23 @@ $$
 \end{align*}
 $$
 
+## Profit
+
+Accounting profit:
+Economic profit:
+Normal profit:
+
+
+
 
 ## Revenue and Cost
 
 | Revenue | Cost |
 ----|---- 
+
+| Total Revenue  | Total Cost |
 | Average Revenue  | Average Cost |
-| Marginal Revenue | TD4 |
+| Marginal Revenue | Marginal Cost (MC) |
 
 
 
