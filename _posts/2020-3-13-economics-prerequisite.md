@@ -23,7 +23,7 @@ Accounting profit:
 Economic profit:
 Normal profit:
 
-
+Link to Mark Meldrum video:
 
 
 ## Revenue and Cost
@@ -45,19 +45,21 @@ Here, "Average" means averaging by supplied quantity.
 
 ## Under Perfect Competition
 Under perfect competition, we assume that all are firms price takers.
-Market equilibrium decides price value for all firms and for each firm, the price is kept constant.
-
-(Price taker: Price is given 
+Market equilibrium decides price value for every firm. Therefore price is kept constant regardless of the quantity demanded for individual firms.
 
 
-Therefore, 
+(Price taker: Agent in which )
 
+Therefore below equation holds,
 
 $$
 \begin{equation}
 Price = AR = MR
 \end{equation}
 $$
+
+
+
 
 ## Under Imperfect Competition
 
