@@ -73,7 +73,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-remote_theme: benbalter/retlab
+theme: minimal-mistakes-jekyll
 
 # Set the Sass partials directory, as we're using @imports
 sass:
