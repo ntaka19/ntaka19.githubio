@@ -39,7 +39,8 @@ Here, "Average" means averaging by supplied quantity.
 Below is the derivation regarding the relationship between cost curves:\\
 "Mathematically, when marginal cost is less than average variable cost, AVC will be decreasing. The opposite occurs when MC is greater than AVC."
 
-(TVC=)
+(TVC: Total Variable Cost)
+
 $$
 \begin{aligned}
 & \frac{\partial AVC}{\partial Q} = \frac{\partial }{\partial Q} \left( \frac{TVC}{Q} \right) \\
@@ -48,6 +49,8 @@ $$
 & MC  \leq AVC
 \end{aligned}
 $$
+
+From the derivation, it is easy to see that AVC can be 
 
 
 ## Under Perfect Competition
