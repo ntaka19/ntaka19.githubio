@@ -34,9 +34,11 @@ Another helpful reference is from [Mark Meldrum's set of videos](https://www.you
 
 
 Here, "Average" means averaging by supplied quantity. 
+"Marginal" can be easily grasped by derivation of 
 
 
-Below is the derivation regarding the relationship between cost curves:\\
+
+Below is the derivation of relationship between cost curves given in the prerequisite material:\\
 "Mathematically, when marginal cost is less than average variable cost, AVC will be decreasing. The opposite occurs when MC is greater than AVC."
 
 (TVC: Total Variable Cost. )
