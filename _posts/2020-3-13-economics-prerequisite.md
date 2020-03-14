@@ -71,7 +71,11 @@ From the derivation, it is easy to see that relation between MC and ATC is equiv
 Under perfect competition, we assume that all are firms price takers.
 Market equilibrium decides price value for every firm. Therefore price is kept constant regardless of the quantity demanded for individual firms.
 
-It is important to distinguish between market demand curve and firm's demand curve. They are very very different!
+It is important to distinguish between market demand curve and firm's demand curve. They are *very very different*!
+
+![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre5.png)
+
+
 
 (Price taker: Agent in which )
 
@@ -85,11 +89,11 @@ $$
 
 
 
+![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png)
 
 ## Under Imperfect Competition
 
 
 
 
-![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png)
 
