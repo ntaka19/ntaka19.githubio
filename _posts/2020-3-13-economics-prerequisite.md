@@ -7,7 +7,7 @@ tags:
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-Following article constitues mainly notes on prerequisite material on Ecomomics given from the CFAI and can be found here:
+Following article constitues mainly notes on prerequisite material on Ecomomics given from the CFAI and can be found [here](https://www.cfainstitute.org/-/media/documents/support/programs/cfa/prerequisite-economics-material-demand-and-supply-analysis-intro.ashx):
 
 
 $$
@@ -23,8 +23,7 @@ Accounting profit:
 Economic profit:
 Normal profit:
 
-Link to Mark Meldrum video:
-
+[Link to Mark Meldrum video](https://www.youtube.com/watch?v=S4cKRMSyqk0&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=34)
 
 ## Revenue and Cost
 
@@ -47,6 +46,7 @@ Here, "Average" means averaging by supplied quantity.
 Under perfect competition, we assume that all are firms price takers.
 Market equilibrium decides price value for every firm. Therefore price is kept constant regardless of the quantity demanded for individual firms.
 
+It is important to distinguish between market demand curve and firm's demand curve. They are very very different!
 
 (Price taker: Agent in which )
 
