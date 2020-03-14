@@ -25,19 +25,16 @@ $$
 | Average Revenue  | Average Cost |
 | Marginal Revenue | TD4 |
 
-<table markdown="1" border="1" style="margin:auto;">
-<tr><td>ELF header</td></tr>
-<tr><td>program header</td></tr>
-<tr><td>...</td></tr>
-<tr><td>program header</td></tr>
-<tr><td height="100" align="center">code & data</td></tr>
-<tr><td>section header</td></tr>
-<tr><td>...</td></tr>
-<tr><td>section header</td></tr>
-</table>
 
 
 ## Under Perfect competition
+Under perfect competition, we assume that all are firms price takers.
+
+(Price taker: Price is given 
+
+
+Therefore, 
+
 
 $$
 \begin{equation}
