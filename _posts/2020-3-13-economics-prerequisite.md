@@ -35,6 +35,7 @@ Normal profit:
 |   | Average Fixed Cost (AFC) |
 |   | Average Variable Cost (AVC) |
 | Marginal Revenue (MR) | Marginal Cost (MC) |
+
 [^1]: Total Cost = Fixed Cost + Variable Cost
 
 
