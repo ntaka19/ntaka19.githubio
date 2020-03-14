@@ -4,20 +4,21 @@ title: About
 permalink: /about/
 ---
 
-#### Interests
+### Interests
 * Computational Neuroscience, Neuromorphic Engineering
 * Financial Engineering, Econophysics
 
-#### Education
+### Education
 
-* BSc in Information Science (Apr. 2014 - Mar. 2018)
+* B.S. in Information Science (Apr. 2014 - Mar. 2018)
   - Department of Information Science, Faculty of Science (Current: School of Computing, Department of Mathematical and Computing Science), Tokyo Institute of Technology, Japan.
 * Master of Information Science and Technology (Apr. 2018 - Mar. 2020)
   - Department of Mathematical Informatics, Graduate School of Information Science and Technology, The University of Tokyo, Japan.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
+<!-- ### More Information -->
+
 
 
 <!--[email@domain.com](mailto:email@domain.com) -->
