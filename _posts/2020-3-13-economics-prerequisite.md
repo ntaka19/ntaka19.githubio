@@ -39,7 +39,7 @@ Here, "Average" means averaging by supplied quantity.
 Below is the derivation regarding the relationship between cost curves:\\
 "Mathematically, when marginal cost is less than average variable cost, AVC will be decreasing. The opposite occurs when MC is greater than AVC."
 
-(TVC: Total Variable Cost)
+(TVC: Total Variable Cost. )
 
 $$
 \begin{aligned}
@@ -50,7 +50,7 @@ $$
 \end{aligned}
 $$
 
-From the derivation, it is easy to see that AVC can be 
+From the derivation, it is easy to see that relation between MC and ATC is equivalent with AVC (AVC can also be replaced with ATC). 
 
 
 ## Under Perfect Competition
