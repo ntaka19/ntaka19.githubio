@@ -34,7 +34,9 @@ Another helpful reference is from [Mark Meldrum's set of videos](https://www.you
 
 
 Here, "Average" means averaging by supplied quantity. 
-"Marginal" can be easily grasped by derivation of 
+"Marginal" can be easily grasped by partial derivative by Q. For example, marginal cost is defined as, 
+$$ \frac{\partial TC}{\partial Q} $$.
+
 
 
 
