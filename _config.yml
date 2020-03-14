@@ -6,7 +6,7 @@
 name: Naru
 
 # Short bio or description (displayed in the header)
-description: On Neuromorphic & Financial Engineering
+description: Neuromorphic & Financial Engineering
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -73,7 +73,7 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-theme: minimal-mistakes-jekyll
+    #theme: minimal-mistakes-jekyll
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -84,6 +84,8 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
+text:
+  sidebar_msg: Test
 
 collections:
   stories:
