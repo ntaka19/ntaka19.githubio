@@ -30,7 +30,6 @@ Normal profit:
 
 | Revenue | Cost |
 ----|---- 
-
 | Total Revenue (TR)  | Total Cost (TC) |
 | Average Revenue (AR)  | Average Total Cost (ATC) |
 |   | Average Fixed Cost (AFC) |
