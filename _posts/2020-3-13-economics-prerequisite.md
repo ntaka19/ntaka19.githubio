@@ -49,6 +49,7 @@ $$
 & \frac{1}{Q} \frac{\partial TVC}{\partial Q} + TVC(-\frac{1}{Q^2}) \leq 0 \\
 \end{aligned}
 $$
+
 therefore, 
 
 $$
