@@ -11,7 +11,7 @@ Following article constitues my notes on prerequisite material on Ecomomics give
 
 Another helpful reference is from [Mark Meldrum's set of videos](https://www.youtube.com/watch?v=pitQYVFgibs&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=4).
 
-## Various Profits
+## 1. Various Profits
 
 - Accounting profit:
 - Economic profit:
@@ -20,7 +20,7 @@ Another helpful reference is from [Mark Meldrum's set of videos](https://www.you
 [Mark Meldrum video](https://www.youtube.com/watch?v=S4cKRMSyqk0&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=34)
 
 
-## Revenue and Cost
+## 2. Revenue and Cost
 
 | Revenue | Cost |
 ----|---- 
@@ -58,7 +58,7 @@ MC curve and
 From the derivation, it is easy to see that relation between MC and ATC is equivalent with AVC (AVC can also be replaced with ATC). 
 
 
-## Under Perfect Competition
+## 3. Under Perfect Competition
 Under perfect competition, we assume that all are firms price takers.
 Market equilibrium decides price value for every firm. Therefore price is kept constant regardless of the quantity demanded for individual firms.
 
