@@ -89,5 +89,5 @@ $$
 
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png)
 
