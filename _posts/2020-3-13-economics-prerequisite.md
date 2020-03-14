@@ -47,7 +47,7 @@ Here, "Average" means averaging by supplied quantity.
 Regarding the cost curve, 
 $$
 \begin{aligned}
-& \frac{\partial TC}{\partial Q} = \frac{\partial }{\partial Q} \frac{TC}{Q} \\
+& \frac{\partial TC}{\partial Q} = \frac{\partial }{\partial Q} (\frac{TC}{Q}) \\
 & \frac{1}{Q} \frac{\partial TC}{\partial Q} + TC(-\frac{1}{Q^2}) \leq 0 \\
 & \frac{\partial TC}{\partial Q} \leq \frac{TC}{Q} \\
 & MC  \leq ATC
