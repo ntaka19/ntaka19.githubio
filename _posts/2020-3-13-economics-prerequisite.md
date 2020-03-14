@@ -74,7 +74,7 @@ Market equilibrium decides price value for every firm. Therefore price is kept c
 It is important to distinguish between market demand curve and firm's demand curve. They are *very very different*!
 
 ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre5.png)
-
+(Figure from prerequisite material)
 
 
 (Price taker: Agent in which )
@@ -90,6 +90,7 @@ $$
 
 
 ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png)
+(Figure from prerequisite material)
 
 ## Under Imperfect Competition
 
