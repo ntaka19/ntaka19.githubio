@@ -43,6 +43,11 @@ $$
 
 Here, "Average" means averaging by supplied quantity. 
 
+$$
+\begin{equation}
+\frac{\partial }{\partial Q} \frac{TC}{Q}
+\end{equation}
+$$
 
 
 ## Under Perfect Competition
