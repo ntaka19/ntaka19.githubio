@@ -44,11 +44,12 @@ $$
 Here, "Average" means averaging by supplied quantity. 
 
 
-Regarding the cost curve, 
+Below is the derivation regarding the relationship between cost curves:\\
+"Mathematically, when marginal cost is less than average variable cost, AVC will be decreasing. The opposite occurs when MC is greater than AVC."
 
 $$
 \begin{aligned}
-& \frac{\partial TC}{\partial Q} = \frac{\partial }{\partial Q} (\frac{TC}{Q}) \\
+& \frac{\partial ATC}{\partial Q} = \frac{\partial }{\partial Q} \left( \frac{TC}{Q} \right) \\
 & \frac{1}{Q} \frac{\partial TC}{\partial Q} + TC(-\frac{1}{Q^2}) \leq 0 \\
 & \frac{\partial TC}{\partial Q} \leq \frac{TC}{Q} \\
 & MC  \leq ATC
