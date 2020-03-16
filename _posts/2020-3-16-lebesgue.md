@@ -29,7 +29,7 @@ A \subseteq B \text{ならば} m^{\ast}(A) \leqq m^{\ast}(B)
 \end{equation}$$
 
 $$\begin{equation}
-m^{\ast}\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m^{^ast}\left(A_{i}\right)
+m^{\ast}\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m^{\ast}\left(A_{i}\right)
 \label{eq:13}\tag{C3}
 \end{equation}$$
 
@@ -39,11 +39,11 @@ m^{\ast}([a,b)) = b-a
 \end{equation}$$
 
 $$\begin{equation}
-\text{点集合AとBが合同ならば，} m^{\ast}(A) = m^{\ast}(B)
-\label{eq:14}\tag{C4}
+\text{点集合AとBが合同ならば} m^{\ast}(A) = m^{\ast}(B)
+\label{eq:15}\tag{C5}
 \end{equation}$$
 
-Eq. $$\eqref{eq:11}$$.
+Eq. $$\eqref{eq:13}$$で直和であることを要求しない.
 <!-- (ref) -->
 
 ## 2. 可測関数 
