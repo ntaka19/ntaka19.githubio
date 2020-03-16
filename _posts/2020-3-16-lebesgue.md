@@ -21,9 +21,12 @@ tags:
 $$
 \begin{equation}
 0 \leq m^{\ast}(A) \leq +\infty 
+\label{11}
+\tag{1}
 \end{equation}
 $$
 
+Eq. $\eqref{eq:11}$.
 <!-- (ref) -->
 
 ## 2.  
