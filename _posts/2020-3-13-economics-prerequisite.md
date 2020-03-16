@@ -8,15 +8,13 @@ tags:
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 Following article constitues my notes on prerequisite material on Ecomomics given from the CFAI and can be found [here](https://www.cfainstitute.org/-/media/documents/support/programs/cfa/prerequisite-economics-material-demand-and-supply-analysis-intro.ashx)
-[^1]
+()[^1])
 
 
 [^1]: CFAI Prerequisite material
 
 Another helpful reference is from [Mark Meldrum's (MM) set of videos](https://www.youtube.com/watch?v=pitQYVFgibs&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=4).
-
-
-[MM video in Economics](https://www.youtube.com/watch?v=S4cKRMSyqk0&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=34)
+([MM video in Economics](https://www.youtube.com/watch?v=S4cKRMSyqk0&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=34))
 
 ## 1. Various Profits
 
@@ -78,7 +76,8 @@ Under perfect competition, we assume that all are firms price takers.
 Market equilibrium decides price value for every firm. Therefore price is kept constant regardless of the quantity demanded for individual firms.
 
 It is important to distinguish between market demand curve and firm's demand curve. They are *very very different*!
-
+(Refer to Exihibit 5 in [^1])
+<!-- ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png) -->
 <!-- ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre5.png) -->
 
 
@@ -94,8 +93,6 @@ $$
 
 
 
-<!-- ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png) -->
-(Figure from prerequisite material)
 
 ## Under Imperfect Competition
 
