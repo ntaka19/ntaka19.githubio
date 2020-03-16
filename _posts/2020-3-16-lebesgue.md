@@ -16,12 +16,12 @@ tags:
 
 ## 1. 外測度、ルベーグ測度
 
-### 1.1 外測度
+### 1.1 外測度 m^{\ast}(A) 
 
 $$
 \begin{equation}
 0 \leq m^{\ast}(A) \leq +\infty 
-\label{11}
+\label{eq:11}
 \tag{1}
 \end{equation}
 $$
