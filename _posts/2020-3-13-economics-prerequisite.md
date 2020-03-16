@@ -7,7 +7,8 @@ tags:
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-Following article constitues my notes on prerequisite material on Ecomomics given from the CFAI and can be found [here](https://www.cfainstitute.org/-/media/documents/support/programs/cfa/prerequisite-economics-material-demand-and-supply-analysis-intro.ashx):
+Following article constitues my notes on prerequisite material on Ecomomics given from the CFAI and can be found [here](https://www.cfainstitute.org/-/media/documents/support/programs/cfa/prerequisite-economics-material-demand-and-supply-analysis-intro.ashx)
+[^1]: Prerequisite Material
 
 Another helpful reference is from [Mark Meldrum's set of videos](https://www.youtube.com/watch?v=pitQYVFgibs&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=4).
 
@@ -25,12 +26,12 @@ Another helpful reference is from [Mark Meldrum's set of videos](https://www.you
 | Revenue | Cost |
 ----|---- 
 | Total Revenue (TR)  | Total Cost (TC) |
-| Average Revenue (AR)  | Average Total Cost (ATC) [^1]|
+| Average Revenue (AR)  | Average Total Cost (ATC) [^2]|
 |   | Average Fixed Cost (AFC) |
 |   | Average Variable Cost (AVC) |
 | Marginal Revenue (MR) | Marginal Cost (MC) |
 
-[^1]: Total Cost = Fixed Cost + Variable Cost
+[^2]: Total Cost = Fixed Cost + Variable Cost
 
 
 Here, "Average" means averaging by supplied quantity. 
@@ -62,9 +63,9 @@ $$
 $$
 
 From the derivation, it is easy to see that relation between MC and ATC is equivalent with AVC (AVC can also be replaced with ATC). 
-Since the relation holds for opposite inequality, we can understand that
-Intersection between MC curve and AVC (ATC) is the miniumum point of AVC (ATC).  
-
+Since the relation holds for opposite inequality, 
+intersection between MC curve and AVC (ATC) is the miniumum point of AVC (ATC).  
+(Refer to Exihibit 17 in [^1])
 
 
 ## 3. Under Perfect Competition
@@ -73,8 +74,7 @@ Market equilibrium decides price value for every firm. Therefore price is kept c
 
 It is important to distinguish between market demand curve and firm's demand curve. They are *very very different*!
 
-![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre5.png)
-(Figure from prerequisite material)
+<!-- ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre5.png) -->
 
 
 (Price taker: Agent in which )
@@ -89,7 +89,7 @@ $$
 
 
 
-![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png)
+<!-- ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png) -->
 (Figure from prerequisite material)
 
 ## Under Imperfect Competition
