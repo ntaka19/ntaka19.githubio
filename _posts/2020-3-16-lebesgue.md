@@ -26,7 +26,7 @@ $$
 \end{equation}
 $$
 
-Eq. $\eqref{eq:11}$.
+Eq. $$\eqref{eq:11}$$.
 <!-- (ref) -->
 
 ## 2.  
