@@ -5,6 +5,7 @@ tags:
 - Probability
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 本ポストは測度論的確率論に関する個人的な定義・定理のまとめ(暗記した方がよい事項)。
 主に、吉田洋一先生の「ルベグ積分入門」([^1])を参考にして作成されている。
 
