@@ -15,6 +15,16 @@ tags:
 
 ## 1. 外測度、ルベーグ測度
 
+### 1.1 外測度
+
+$$
+\begin{equation}
+0 \leq m^{\*}(A) \leq +\infty 
+\end{equation}
+$$
+
+<!--(ref)-- >
+
 ## 2.  
 
 ## Lebesgue 
