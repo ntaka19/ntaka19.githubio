@@ -18,13 +18,15 @@ tags:
 
 ### 1.1 外測度 (Outer measure) $$m^{\ast}(A)$$ 
 
-$$
-\begin{equation}
+$$\begin{equation}
 0 \leq m^{\ast}(A) \leq +\infty 
-\label{eq:11}
-\tag{C1}
-\end{equation}
-$$
+\label{eq:11}\tag{C1}
+\end{equation}$$
+
+$$\begin{equation}
+A \subseteq B \text{ならば} m^{\ast}(A) \leqq m^{\ast}(B) 
+\label{eq:11}\tag{C1}
+\end{equation}$$
 
 Eq. $$\eqref{eq:11}$$.
 <!-- (ref) -->
