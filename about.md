@@ -28,7 +28,7 @@ Master:
 
 Bachelor:
 
-* Naruaki Takano, “企業間取引の地理空間解析と空間ネットワークモデルの提案", 2018, March, Department of Information Science,, Faculty of Science, Tokyo Institute of Technology, Japan.
+* Naruaki Takano, “企業間取引の地理空間解析と空間ネットワークモデルの提案", 2018, March, Department of Information Science, Faculty of Science, Tokyo Institute of Technology, Japan.
 
 <!-- ### More Information -->
 
