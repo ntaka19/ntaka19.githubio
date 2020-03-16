@@ -29,9 +29,12 @@ $$
 Eq. $$\eqref{eq:11}$$.
 <!-- (ref) -->
 
-## 2.  
+## 2. 可測関数 
 
-## Lebesgue 
+## 
+正値単関数で定理を導出し，それらをもとに，正値関数の定理を導出する(正値関数が導出できれば，一般の関数についても導出可能)．
+
+## 測度空間 Lebesgue 
 
 
 [^1]: [ルベグ積分入門](https://www.amazon.co.jp/dp/B06XGHV4SR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
