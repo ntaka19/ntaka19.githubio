@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Interests
-Maths underlying the brain and world.
+Mathematics in **brain** and **world**.
 * Computational Neuroscience, Neuromorphic Engineering
 * Financial Engineering, Econophysics
 
