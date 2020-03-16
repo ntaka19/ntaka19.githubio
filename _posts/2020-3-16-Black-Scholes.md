@@ -13,4 +13,8 @@ Below shows brief derivation of Black-Scholes equation
 
 References:
 
-* 
+
+* ファイナンスのための確率解析
+
+Introductory material<br>
+* [Aicia Solid Project] (https://www.youtube.com/watch?v=NE1W0wJH8q8)
