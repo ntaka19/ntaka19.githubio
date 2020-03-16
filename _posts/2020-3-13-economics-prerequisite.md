@@ -8,7 +8,7 @@ tags:
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 Following article constitues my notes on prerequisite material on Ecomomics given from the CFAI and can be found [here](https://www.cfainstitute.org/-/media/documents/support/programs/cfa/prerequisite-economics-material-demand-and-supply-analysis-intro.ashx)
-()[^1])
+([^1])
 
 
 [^1]: CFAI Prerequisite material
