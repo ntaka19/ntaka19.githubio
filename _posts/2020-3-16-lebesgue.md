@@ -25,7 +25,22 @@ $$\begin{equation}
 
 $$\begin{equation}
 A \subseteq B \text{ならば} m^{\ast}(A) \leqq m^{\ast}(B) 
-\label{eq:11}\tag{C1}
+\label{eq:12}\tag{C2}
+\end{equation}$$
+
+$$\begin{equation}
+m^{\ast}\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m^{^ast}\left(A_{i}\right)
+\label{eq:13}\tag{C3}
+\end{equation}$$
+
+$$\begin{equation}
+m^{\ast}([a,b)) = b-a
+\label{eq:14}\tag{C4}
+\end{equation}$$
+
+$$\begin{equation}
+\text{点集合AとBが合同ならば，} m^{\ast}(A) = m^{\ast}(B)
+\label{eq:14}\tag{C4}
 \end{equation}$$
 
 Eq. $$\eqref{eq:11}$$.
