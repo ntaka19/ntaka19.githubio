@@ -47,7 +47,7 @@ $$ \frac{\partial TC}{\partial Q} $$.
 
 
 Below is the derivation of relationship between cost curves given in the prerequisite material:\\
-"Mathematically, when marginal cost is less than average variable cost, AVC will be decreasing. The opposite occurs when MC is greater than AVC."
+*"Mathematically, when marginal cost is less than average variable cost, AVC will be decreasing. The opposite occurs when MC is greater than AVC."*
 
 (TVC: Total Variable Cost. )
 
