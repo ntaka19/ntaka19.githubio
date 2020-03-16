@@ -19,7 +19,7 @@ tags:
 
 $$
 \begin{equation}
-0 \leq m^{\*}(A) \leq +\infty 
+0 \leq m^{\ast}(A) \leq +\infty 
 \end{equation}
 $$
 
