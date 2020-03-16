@@ -22,7 +22,7 @@ $$
 \begin{equation}
 0 \leq m^{\ast}(A) \leq +\infty 
 \label{eq:11}
-\tag{1}
+\tag{C1}
 \end{equation}
 $$
 
