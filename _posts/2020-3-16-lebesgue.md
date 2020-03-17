@@ -96,7 +96,8 @@ m^{\ast}(B \cup B') = m^{\ast}(B) + m^{\ast}(B')
 
 
 
-## 測度空間 Lebesgue 
+## 4. 測度空間、ルベーグ＝スティルチェス積分 
+
 
 
 [^1]: [ルベグ積分入門](https://www.amazon.co.jp/dp/B06XGHV4SR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
