@@ -70,7 +70,7 @@ Aを決まった点集合とする．
 $$B \subseteq A $$ および$$B' \subseteq A^{c} $$ であればいつでも， 
 
 $$\begin{equation}
-m^{\ast}(A) = m^{\ast}(A)
+m^{\ast}(B \cup B') = m^{\ast}(B) + m^{\ast}(B')
 \label{eq:17}\tag{1.2}
 \end{equation}$$
 
