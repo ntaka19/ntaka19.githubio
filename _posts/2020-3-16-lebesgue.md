@@ -50,10 +50,10 @@ $$\begin{equation}
 ここで，外測度を次のように定義すると上記５つの条件が満たせる．
 
 
-$$\left{ I_{1},... I_{n},... \right}$$
+$$\left \{ I_{1},... I_{n},... \right\}$$
 
 $$\begin{equation}
-m^{\ast}(A):=\inf \left\{\sum_{n=1}^{\infty} \left|I_{n}\right| : A \subseteq \bigcup_{n=1}^{\infty} I_{n} \right}
+m^{\ast}(A):=\inf \left\{ \sum_{n=1}^{\infty} \left|I_{n}\right| : A \subseteq \bigcup_{n=1}^{\infty} I_{n} \right \}
 \label{eq:16}\tag{1}
 \end{equation}$$
 
