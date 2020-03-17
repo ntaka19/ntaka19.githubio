@@ -18,6 +18,8 @@ tags:
 
 ### 1.1 外測度 (Outer measure) $$m^{\ast}(A)$$ 
 
+まずは一次元の測度を議論する．
+
 外測度は次の５つの条件を満たすように定義する(P. 83)，
 $$\begin{equation}
 0 \leq m^{\ast}(A) \leq +\infty 
@@ -45,24 +47,36 @@ $$\begin{equation}
 \end{equation}$$
 
 注意点として，Eq. $$\eqref{eq:13}$$で直和であることを要求しないことがある．
+「なるべく広い範囲の点集合」を考えたい．
 <!-- (ref) -->
 
 ここで，外測度を次のように定義すると上記５つの条件が満たせる．
 
-
+半開区間の列，
 $$\left \{ I_{1},... I_{n},... \right\}$$
+に対して，
 
 $$\begin{equation}
 m^{\ast}(A):=\inf \left\{ \sum_{n=1}^{\infty} \left|I_{n}\right| : A \subseteq \bigcup_{n=1}^{\infty} I_{n} \right \}
-\label{eq:16}\tag{1}
+\label{eq:16}\tag{1.1}
 \end{equation}$$
 
 
-
-
-
-
 ### 1.2. 可測集合
+
+
+Aを決まった点集合とする．
+$$B \subseteq A $$ および$$B' \subseteq A^{c} $$ であればいつでも， 
+
+$$\begin{equation}
+m^{\ast}(A) = m^{\ast}(A)
+\label{eq:17}\tag{1.2}
+\end{equation}$$
+
+が成立するとき，$$A$$はルベグ可測であるという．
+
+
+
 
 
 ### 1.3. ルベグ測度
