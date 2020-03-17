@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Interests
+### Interests & Major
 <!-- Mathematics in the **brain** and **world**. -->
 * Computational Neuroscience, Neuromorphic Engineering
 * Financial Engineering, Econophysics
