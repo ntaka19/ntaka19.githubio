@@ -18,7 +18,8 @@ permalink: /about/
 
 ### Publications
 
-Conference Paper
+Conference Paper:<br>
+- Naruaki Takano, Takashi Kohno.“Towards Modeling Cholinergic Modulation for Neuromorphic Computing”, The 2020 International Conference on Artificial Life and Robotics. Jan, 2020.
 
 ### Thesis
 Master:
