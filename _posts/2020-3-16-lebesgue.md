@@ -44,10 +44,16 @@ $$\begin{equation}
 \label{eq:15}\tag{C5}
 \end{equation}$$
 
-Eq. $$\eqref{eq:13}$$で直和であることを要求しない.
+注意点として，Eq. $$\eqref{eq:13}$$で直和であることを要求しないことがある．
 <!-- (ref) -->
 
-ここで，外測度を次のように定義する．
+ここで，外測度を次のように定義すると上記５つの条件が満たせる．
+$$\begin{equation}
+m^{\ast}(A):=\inf \left\{\sum_{n=1}^{\infty} \left|I_{n}\right| : A \subseteq \bigcup_{n=1}^{\infty} I_{n} \right}
+\label{eq:15}\tag{C5}
+\end{equation}$$
+
+
 
 
 ### 1.2. 可測集合
