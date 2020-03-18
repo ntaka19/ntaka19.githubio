@@ -136,22 +136,22 @@ $$m(A)$$は次の条件を満たす．
 
 $$\begin{equation}
 0 \leq m(A) \leq +\infty 
-\label{eq:11}\tag{L1}
+\label{eq:131\tag{L1}
 \end{equation}$$
 
 $$\begin{equation}
 m\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m\left(A_{i}\right)
-\label{eq:13}\tag{L3}
+\label{eq:132}\tag{L3}
 \end{equation}$$
 
 $$\begin{equation}
 m([a,b)) = b-a
-\label{eq:14}\tag{L4}
+\label{eq:133}\tag{L4}
 \end{equation}$$
 
 $$\begin{equation}
 \text{点集合AとBが合同ならば} m(A) = m(B)
-\label{eq:15}\tag{L5}
+\label{eq:134}\tag{L5}
 \end{equation}$$
 
 
