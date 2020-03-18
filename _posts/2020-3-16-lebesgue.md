@@ -203,6 +203,9 @@ $$(\Omega,\mathcal{A},P)$$を確率空間として
 
 
 
+[Black-Scholes post]({{ site.baseurl }}/Black-Scholes)
+
+
 [^1]: [ルベグ積分入門](https://www.amazon.co.jp/dp/B06XGHV4SR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 [^2]: [ルベーグ積分の基礎のキソ](http://www.math.titech.ac.jp/~kawahira/courses/lebesgue.pdf)
 [^3]: [確率論(岩波書店)](https://www.amazon.co.jp/%E7%A2%BA%E7%8E%87%E8%AB%96-%E5%B2%A9%E6%B3%A2%E5%9F%BA%E7%A4%8E%E6%95%B0%E5%AD%A6%E9%81%B8%E6%9B%B8-%E4%BC%8A%E8%97%A4-%E6%B8%85/dp/400007816X)
