@@ -136,7 +136,7 @@ $$m(A)$$は次の条件を満たす．
 
 $$\begin{equation}
 0 \leq m(A) \leq +\infty 
-\label{eq:131\tag{L1}
+\label{eq:131}\tag{L1}
 \end{equation}$$
 
 $$\begin{equation}
