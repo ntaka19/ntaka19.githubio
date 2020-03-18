@@ -205,13 +205,17 @@ $$\begin{equation}
 \mathrm{s}=a_{1} m\left(A_{1}\right)+a_{2} m\left(A_{2}\right)+\cdots+a_{k} m\left(A_{k}\right)
 \end{equation}$$
 
-\mathcal{s}を$$f$$の$$A$$におけるキンジワと呼ぶ．
+$$\mathcal{s}$$を$$f$$の$$A$$における近似和と呼ぶ．
 $$A$$のあらゆる分割$$\left\{A_{1}, A_{2}, \cdots, A_{k}\right\}$$について近似和をつくる．
 これらの集合を$$\langle \mathcal{s} \rangle$$と表す．
 
+ここでルベーグ積分の定義は，
 $$\begin{equation}
 \int_{A} f(x) d x=\sup \langle \mathcal{s}\rangle
 \end{equation}$$
+である．
+
+
 
 ### 3.x 単調収束定理
 
