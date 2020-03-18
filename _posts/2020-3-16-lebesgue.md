@@ -80,11 +80,11 @@ m^{\ast}(B \cup B') = m^{\ast}(B) + m^{\ast}(B')
 
 $$X$$を任意の点集合とする時，$$A$$が可測であることは，
 $$\begin{equation}
-\m^{\ast}(B)=\m^{\ast}(B \cap A)+\m^{\ast}\left(B \cap A^{c}\right)
+m^{\ast}(B)=m^{\ast}(B \cap A)+m^{\ast}\left(B \cap A^{c}\right)
 \label{eq:18}\tag{1.3}
 \end{equation}$$
 が成立することである．
-(Eq. $$\eqref{eq:18}$$で$$B=X\capA, B'= X\cap A^{c}$$とおく)
+(Eq. $$\eqref{eq:18}$$で$$B=X\cap A, B'= X\cap A^{c}$$とおく)
 
 可測集合の例を残しておく
 
