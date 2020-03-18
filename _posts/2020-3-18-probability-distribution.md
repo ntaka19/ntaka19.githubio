@@ -5,18 +5,12 @@ tags:
 - StatsML
 - JSSC1
 ---
-
-
 分布の導出とまとめ
-
-
 
 ## アーラン分布
 
-$$
-X_{1}, \dots, X_{n}
-$$
-$$\frac{1}{\lambda}$$ 
+i.i.dの指数分布($$X_{1}, \dots, X_{n}$$
+$$\frac{1}{\lambda}$$)について 
 
 $$X=X_{1}+\cdots+X_{n}$$
 
@@ -33,3 +27,4 @@ $$\begin{equation}
 
 
 [参考](http://www.data-arts.jp/course/probability_distribution/index.html)
+
