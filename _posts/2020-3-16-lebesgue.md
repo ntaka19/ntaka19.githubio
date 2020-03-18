@@ -93,7 +93,7 @@ $$\begin{equation}
 ### 1.2.1 可測集合族
 
 $$\begin{equation}
-\phi in \mathcal{M}
+\phi \in \mathcal{M}
 \label{eq:121}\tag{M1}
 \end{equation}$$
 
@@ -103,9 +103,14 @@ A \in \mathcal{M} \Longrightarrow A^{c} \in \mathcal{M}
 \end{equation}$$
 
 $$\begin{equation}
-A_{n} in \mathcal{M} (n=1,2,...) \text{ならば，} \bigcup_{i=1}^{\infty} A_{i} \in \mathcal{M}
+A_{n} \in \mathcal{M} \text{  } (n=1,2,...) \text{ならば，} \bigcup_{i=1}^{\infty} A_{i} \in \mathcal{M}
 \label{eq:123}\tag{M3}
 \end{equation}$$
+
+可測集合に限らない時，一般に加法的集合族である．
+
+
+可測集合の場合は次が成り立つ．
 
 例．ボレル集合族
 
