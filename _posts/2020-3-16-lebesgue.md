@@ -223,7 +223,7 @@ $$\begin{equation}
 
 
 $$\begin{equation}
-\int_{A} \displaystyle \liminf_{n} f_{n} (x) dx \leqq \displaystyle \liminf_{n} \int_{A} f_{n}(x) dx
+\int_{A} \displaystyle \varliminf_{n} f_{n} (x) dx \leqq \displaystyle \varliminf_{n} \int_{A} f_{n}(x) dx
 \end{equation}$$
 
 ### 3.3 Lebesgue の項別積分定理
