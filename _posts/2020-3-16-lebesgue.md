@@ -93,17 +93,17 @@ $$\begin{equation}
 ### 1.2.1 可測集合族
 
 $$\begin{equation}
-0 \leq m^{\ast}(A) \leq +\infty 
+\phi in \mathcal{M}
 \label{eq:121}\tag{M1}
 \end{equation}$$
 
 $$\begin{equation}
-A \subseteq B \text{ならば} m^{\ast}(A) \leqq m^{\ast}(B) 
+A \in \mathcal{M} \Longrightarrow A^{c} \in \mathcal{M}
 \label{eq:122}\tag{M2}
 \end{equation}$$
 
 $$\begin{equation}
-m^{\ast}\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m^{\ast}\left(A_{i}\right)
+A_{n} in \mathcal{M} (n=1,2,...) \text{ならば，} \bigcup_{i=1}^{\infty} A_{i} \in \mathcal{M}
 \label{eq:123}\tag{M3}
 \end{equation}$$
 
