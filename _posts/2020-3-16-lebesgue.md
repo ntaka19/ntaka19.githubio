@@ -194,7 +194,7 @@ $$(\Omega,\mathcal{A},P)$$を確率空間として
 
 
 $$\begin{equation}
-A=A_{1} \cup A_{2} \cup \cdots \cup A_{k} (i \neq j then, A_{i} \cap A_{j}=\varnothing )
+A=A_{1} \cup A_{2} \cup \cdots \cup A_{k} (i \neq j \text{ then}, A_{i} \cap A_{j}=\varnothing )
 \end{equation}$$
 
 $$\begin{equation}
