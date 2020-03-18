@@ -1,3 +1,5 @@
+---
+layout: post
 title: Probability Distribution 
 tags: 
 - StatsML
