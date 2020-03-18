@@ -6,7 +6,7 @@ tags:
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-本ポストは測度論的確率論に関する個人的な定義・定理のまとめ([ゼミ](https://www.ms.u-tokyo.ac.jp/~yasuyuki/sem.htm)ならおそらく暗唱しなければならない事項)．
+本ポストは測度論的確率論に関する個人的な定義・定理のまとめ([ゼミ](https://www.ms.u-tokyo.ac.jp/~yasuyuki/sem.htm)ならおそらく暗唱しなければならない事項．ただし厳密性は重視しない．)．
 主に、吉田洋一先生の「ルベグ積分入門」([^1])を参考にして作成されている．
 [^1]をもとにしたpdfのテキスト([^2])があるので、そちらも適宜参考にしたい．
 
@@ -78,10 +78,48 @@ m^{\ast}(B \cup B') = m^{\ast}(B) + m^{\ast}(B')
 同値な条件として，
 
 
+$$X$$を任意の点集合とする時，$$A$$が可測であることは，
+$$\begin{equation}
+\m^{\ast}(B)=\m^{\ast}(B \cap A)+\m^{\ast}\left(B \cap A^{c}\right)
+\label{eq:18}\tag{1.3}
+\end{equation}$$
+が成立することである．
+(Eq. $$\eqref{eq:18}$$で$$B=X\capA, B'= X\cap A^{c}$$とおく)
+
+可測集合の例を残しておく
+
+
+
+### 1.2.1 可測集合族
+
+$$\begin{equation}
+0 \leq m^{\ast}(A) \leq +\infty 
+\label{eq:121}\tag{M1}
+\end{equation}$$
+
+$$\begin{equation}
+A \subseteq B \text{ならば} m^{\ast}(A) \leqq m^{\ast}(B) 
+\label{eq:122}\tag{M2}
+\end{equation}$$
+
+$$\begin{equation}
+m^{\ast}\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m^{\ast}\left(A_{i}\right)
+\label{eq:123}\tag{M3}
+\end{equation}$$
+
+例．ボレル集合族
+
 
 
 
 ### 1.3. ルベグ測度
+
+$$A$$が可測であるとき，
+$$
+\begin{equation}
+m(A) = m^{\ast}(A)
+\end{equation}
+$$
 
 
 
@@ -107,11 +145,14 @@ m^{\ast}(B \cup B') = m^{\ast}(B) + m^{\ast}(B')
 
 ### 3.x 単調収束定理
 
+### 3.2 Fatouの定理
+
+### 3.3 Lebesgue の項別積分定理
 
 
 ### 3.y ルベグ積分とリーマン積分との関係
 
-どういった状況で積分可能か？の例について
+どういった状況で積分可能か？の例
 
 ## 4. 測度空間、ルベーグ＝スティルチェス積分 
 
