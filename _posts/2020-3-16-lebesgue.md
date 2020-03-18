@@ -219,11 +219,11 @@ $$\begin{equation}
 
 ### 3.x 単調収束定理
 
-### 3.2 Fatouの定理
+### 3.2 Fatouの定理 (P. 168)
 
 
 $$\begin{equation}
-\int_{A} \displaystyle\underline{\lim }_{n} f_{n} (x) dx \leqq \underline{\lim } \int_{A} f_{n}(x) dx
+\int_{A} \liminf_{n} f_{n} (x) dx \leqq \liminf_{n} \int_{A} f_{n}(x) dx
 $$\end{equation}
 
 ### 3.3 Lebesgue の項別積分定理
