@@ -10,7 +10,7 @@ tags:
 主に、吉田洋一先生の「ルベグ積分入門」([^1])を参考にして作成されている．
 [^1]をもとにしたpdfのテキスト([^2])があるので、そちらも適宜参考にしたい．
 
-また，途中に確率論の定義を伊藤清先生の確率論をもとに入れる予定．
+また，途中に確率論の定義を伊藤清先生の確率論をもとに入れる予定[^3]．
 最後に、私自身の解釈も含まれているためことを注意されたい(後にアップデートされる)．
 
 
@@ -134,6 +134,30 @@ $$
 
 $$m(A)$$は次の条件を満たす．
 
+$$\begin{equation}
+0 \leq m(A) \leq +\infty 
+\label{eq:11}\tag{L1}
+\end{equation}$$
+
+$$\begin{equation}
+m\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m\left(A_{i}\right)
+\label{eq:13}\tag{L3}
+\end{equation}$$
+
+$$\begin{equation}
+m([a,b)) = b-a
+\label{eq:14}\tag{L4}
+\end{equation}$$
+
+$$\begin{equation}
+\text{点集合AとBが合同ならば} m(A) = m(B)
+\label{eq:15}\tag{L5}
+\end{equation}$$
+
+
+外測度が満たすEq. $$\eqref{eq:12}$$ について記述がない．
+
+
 
 ## 2. 可測関数 
 
@@ -177,3 +201,4 @@ $$
 
 [^1]: [ルベグ積分入門](https://www.amazon.co.jp/dp/B06XGHV4SR/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 [^2]: [ルベーグ積分の基礎のキソ](http://www.math.titech.ac.jp/~kawahira/courses/lebesgue.pdf)
+[^3]: [確率論(岩波書店)](https://www.amazon.co.jp/%E7%A2%BA%E7%8E%87%E8%AB%96-%E5%B2%A9%E6%B3%A2%E5%9F%BA%E7%A4%8E%E6%95%B0%E5%AD%A6%E9%81%B8%E6%9B%B8-%E4%BC%8A%E8%97%A4-%E6%B8%85/dp/400007816X)
