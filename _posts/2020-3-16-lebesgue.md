@@ -141,17 +141,17 @@ $$\begin{equation}
 
 $$\begin{equation}
 m\left(\bigcup_{i=1}^{\infty} A_{i}\right) \leq \sum_{i=1}^{\infty} m\left(A_{i}\right)
-\label{eq:132}\tag{L3}
+\label{eq:132}\tag{L2}
 \end{equation}$$
 
 $$\begin{equation}
 m([a,b)) = b-a
-\label{eq:133}\tag{L4}
+\label{eq:133}\tag{L3}
 \end{equation}$$
 
 $$\begin{equation}
 \text{点集合AとBが合同ならば} m(A) = m(B)
-\label{eq:134}\tag{L5}
+\label{eq:134}\tag{L4}
 \end{equation}$$
 
 
