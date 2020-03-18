@@ -191,6 +191,12 @@ $$(\Omega,\mathcal{A},P)$$を確率空間として
 ## 3. ルベグ積分 
 正値単関数で定理を各種導出し，それらをもとに，正値関数の定理を導出する(正値関数が導出できれば，一般の関数についても導出可能)．
 
+
+
+$$\begin{equation}
+A=A_{1} \cup A_{2} \cup \cdots \cup A_{k} (i \neq j then, A_{i} \cap A_{j}=\varnothing )
+\end{equation}$$
+
 $$\begin{equation}
 a_{i}=\inf \left\{f(x) | x \in A_{i}\right\} \quad(i=1,2, \cdots, k)
 \end{equation}$$
