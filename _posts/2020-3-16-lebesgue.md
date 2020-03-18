@@ -224,7 +224,7 @@ $$\begin{equation}
 
 $$\begin{equation}
 \int_{A} \liminf_{n} f_{n} (x) dx \leqq \liminf_{n} \int_{A} f_{n}(x) dx
-$$\end{equation}
+\end{equation}$$
 
 ### 3.3 Lebesgue の項別積分定理
 
