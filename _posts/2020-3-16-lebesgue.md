@@ -170,7 +170,8 @@ $$
 A(f(x) > c) = \{ x | x \in A, f(x) > c \}
 \end{equation}
 $$
-が可測であるとき$$f$$はAで加速な関数．
+が可測であるとき**$$f$$は$$A$$で可測な関数**．
+
 
 
 
@@ -190,6 +191,13 @@ $$(\Omega,\mathcal{A},P)$$を確率空間として
 ## 3. ルベグ積分 
 正値単関数で定理を各種導出し，それらをもとに，正値関数の定理を導出する(正値関数が導出できれば，一般の関数についても導出可能)．
 
+$$\begin{equation}
+a_{i}=\inf \left\{f(x) | x \in A_{i}\right\} \quad(i=1,2, \cdots, k)
+\end{equation}$$
+
+$$\begin{equation}
+\hat{\mathrm{g}}=a_{1} m\left(A_{1}\right)+a_{2} m\left(A_{2}\right)+\cdots+a_{k} m\left(A_{k}\right)
+\end{equation}$$
 
 ### 3.x 単調収束定理
 
