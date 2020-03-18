@@ -9,6 +9,7 @@ tags:
 
 ## アーラン分布
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 i.i.dの指数分布($$X_{1}, \dots, X_{n}$$
 $$\frac{1}{\lambda}$$)について 
 
