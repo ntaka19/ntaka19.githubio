@@ -32,6 +32,11 @@ Bachelor:
 
 * Naruaki Takano, “企業間取引の地理空間解析と空間ネットワークモデルの提案", 2018, March, Department of Information Science, Faculty of Science, Tokyo Institute of Technology, Japan.
 
+
+
+## 座右の銘
+- 文武両道
+  - 勉強，運動，寝ること
 <!-- ### More Information -->
 
 
