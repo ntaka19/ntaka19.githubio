@@ -202,7 +202,15 @@ a_{i}=\inf \left\{f(x) | x \in A_{i}\right\} \quad(i=1,2, \cdots, k)
 \end{equation}$$
 
 $$\begin{equation}
-\hat{\mathrm{g}}=a_{1} m\left(A_{1}\right)+a_{2} m\left(A_{2}\right)+\cdots+a_{k} m\left(A_{k}\right)
+\mathrm{s}=a_{1} m\left(A_{1}\right)+a_{2} m\left(A_{2}\right)+\cdots+a_{k} m\left(A_{k}\right)
+\end{equation}$$
+
+\mathcal{s}を$$f$$の$$A$$におけるキンジワと呼ぶ．
+$$A$$のあらゆる分割$$\left\{A_{1}, A_{2}, \cdots, A_{k}\right\}$$について近似和をつくる．
+これらの集合を$$\langle \mathcal{s} \rangle$$と表す．
+
+$$\begin{equation}
+\int_{A} f(x) d x=\sup \langle \mathcal{s}\rangle
 \end{equation}$$
 
 ### 3.x 単調収束定理
