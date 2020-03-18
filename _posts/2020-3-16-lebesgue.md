@@ -107,10 +107,15 @@ A_{n} \in \mathcal{M} \text{  } (n=1,2,...) \text{ならば，} \bigcup_{i=1}^{\
 \label{eq:123}\tag{M3}
 \end{equation}$$
 
-可測集合に限らない時，一般に加法的集合族である．
+可測集合に限らない時，一般に**加法的集合族**と呼ぶ．
+$$\begin{equation}
+G\text{が開集合ならば，} G \in \mathcal{M}
+\label{eq:124}\tag{M4}
+\end{equation}$$
 
 
-可測集合の場合は次が成り立つ．
+
+さらに可測集合の場合は次が成り立つ．
 
 例．ボレル集合族
 
