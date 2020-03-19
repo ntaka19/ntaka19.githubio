@@ -18,8 +18,8 @@ Another helpful reference is from [Mark Meldrum's (MM) set of videos](https://ww
 
 ## 1. Various Profits
 
-- Accounting profit:
-- Economic profit:
+- Accounting profit: Net income. 
+- Economic profit: "Economic profit is the result of subtracting both explicit and opportunity costs from revenue." (Investopia) 
 - Normal profit:
 
 
