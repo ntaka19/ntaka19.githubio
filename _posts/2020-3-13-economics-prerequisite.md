@@ -71,9 +71,11 @@ intersection between MC curve and AVC (ATC) is the miniumum point of AVC (ATC).
 (Refer to Exihibit 17 in [^1])
 
 
-## 3. Shutdown point, break , profit maximization
+## 3. Shutdown point, Breakeven point , profit maximization
+
 TR, TVC, TFC. 
 
+### 3.1 Shutdown and Breakeven point
 When,
 $$
 TR = TVC + TFC (\text{zero profit and loss})
@@ -92,12 +94,22 @@ In the long run, even what was considered fixed cost shuold be also be treated a
 Therefore, shutdown occurs when 
 
 
+### 3.2 Profit maximization
+
+
+
+
 ## 4. Under Perfect Competition
 Under perfect competition, we assume that all are firms price takers.
 Market equilibrium decides price value for every firm. Therefore price is kept constant regardless of the quantity demanded for individual firms.
 
 It is important to distinguish between market demand curve and firm's demand curve. They are *very very different*!
 (Refer to Exihibit 5 in [^1])
+
+
+Analysis of shutdown and breakeven point can be done with
+
+
 <!-- ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre17.png) -->
 <!-- ![_config.yml]({{ site.baseurl }}/images/cfa1/econ-pre5.png) -->
 
