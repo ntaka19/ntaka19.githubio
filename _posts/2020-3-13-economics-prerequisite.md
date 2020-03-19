@@ -85,10 +85,12 @@ $$
 If $$TR < TVC + TFC $$ there is loss. Now  
 
 * Firstly, if $$TR > TVC$$ firm should stay in market in the short run. This is because, 
+変動費は全て払い，残りを固定費に充てること．
+()
 
 * However, if $$TR < TVC $$ firm should shut down production immediately (short and long run). (Shut down point: 操業停止点).
 Shutting down the firm leaves loss of $$TFC$$ (because there will be zero revenue, TVC will also be zero.) whereas if the firm keeps on going, loss $$=TFC+TVC-TR > TFC $$. 
-
+(操業すればするほど赤字が増える)
 
 In the long run, even what was considered fixed cost shuold be also be treated as a variable.
 Therefore, shutdown occurs when 
@@ -133,5 +135,5 @@ $$
 
 
 
-
-
+## Other References
+* [ref-jpn](https://gakureki-zero.com/breakeven-point/)
