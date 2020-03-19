@@ -73,9 +73,10 @@ intersection between MC curve and AVC (ATC) is the miniumum point of AVC (ATC).
 
 ## 3. Shutdown point, Breakeven point , profit maximization
 
-TR, TVC, TFC. 
 
 ### 3.1 Shutdown and Breakeven point
+Here, we focus on only $$TR, TVC, TFC$$. 
+
 When,
 $$
 TR = TVC + TFC (\text{zero profit and loss})
