@@ -71,8 +71,7 @@ intersection between MC curve and AVC (ATC) is the miniumum point of AVC (ATC).
 (Refer to Exihibit 17 in [^1])
 
 
-## 3. Shutdown point, break
-
+## 3. Shutdown point, break , profit maximization
 TR, TVC, TFC. 
 
 When,
@@ -90,9 +89,10 @@ Firstly, if $$TR$$ > TVC$$ firm should stay in market in the short run. This is 
 However, if $$TR$$ < TVC$$ firm should shut down production immediately (short and long run). (Shut down point: 操業停止点).
 Shutting down the firm leaves loss of $$TFC$$ (because there will be zero revenue, TVC will also be zero.) whereas if the firm keeps on going, loss $$=TFC+TVC-TR > TFC $$. 
 
-Short run decision
 
-Long run decision
+In the long run, even what was considered fixed cost shuold be also be treated as a variable.
+Therefore, shutdown occurs when 
+
 
 ## 4. Under Perfect Competition
 Under perfect competition, we assume that all are firms price takers.
