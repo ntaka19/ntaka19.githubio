@@ -71,7 +71,24 @@ intersection between MC curve and AVC (ATC) is the miniumum point of AVC (ATC).
 (Refer to Exihibit 17 in [^1])
 
 
-## 3. Under Perfect Competition
+## 3. Shutdown point, break
+
+TR, TVC, TFC. 
+
+When,
+$$
+TR = TVC + TFC (\text{zero profit and loss})
+$$
+
+If $$TR < TVC + TFC $$ there is loss.
+Now we consider decision to be made at different occasions.
+
+
+Short run decision
+
+Long run decision
+
+## 4. Under Perfect Competition
 Under perfect competition, we assume that all are firms price takers.
 Market equilibrium decides price value for every firm. Therefore price is kept constant regardless of the quantity demanded for individual firms.
 
@@ -94,7 +111,9 @@ $$
 
 
 
-## Under Imperfect Competition
+
+
+## 5. Under Imperfect Competition
 
 
 
