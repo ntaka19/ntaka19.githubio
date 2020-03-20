@@ -99,6 +99,20 @@ Therefore, shutdown occurs when
 ### 3.2 Profit maximization
 
 
+Profit maximization occurs when,
+
+1. the difference between total revenue (TR) and total costs (TC) is the greatest;
+2. marginal revenue (MR) equals marginal cost (MC); and
+3. the revenue value of the output from the last unit of input employed equals the cost of employing that input unit. (Regarding **Productivity**)
+
+(Excerpt from prerequisite material)
+
+
+2 and 3 need to be distinguished.
+
+
+
+
 
 
 ## 4. Under Perfect Competition

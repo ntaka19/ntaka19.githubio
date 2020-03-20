@@ -191,8 +191,6 @@ $$(\Omega,\mathcal{A},P)$$を確率空間として
 ## 3. ルベグ積分 
 正値単関数で定理を各種導出し，それらをもとに，正値関数の定理を導出する(正値関数が導出できれば，一般の関数についても導出可能)．
 
-
-
 $$\begin{equation}
 A=A_{1} \cup A_{2} \cup \cdots \cup A_{k} (i \neq j \text{ then}, A_{i} \cap A_{j}=\varnothing )
 \end{equation}$$
@@ -210,6 +208,7 @@ $$A$$のあらゆる分割$$\left\{A_{1}, A_{2}, \cdots, A_{k}\right\}$$につ�
 これらの集合を$$\langle \mathcal{s} \rangle$$と表す．
 
 ここでルベーグ積分の定義は，
+
 $$\begin{equation}
 \int_{A} f(x) d x=\sup \langle \mathcal{s}\rangle
 \end{equation}$$
