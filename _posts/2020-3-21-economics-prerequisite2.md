@@ -69,4 +69,14 @@ Mechanism of Eq. $$\eqref{eq:21} $$ : <br>
 
 ## 2.2 Marginal Revenue Product
 
+revenue value of input
+
+
+marginal product $$\times$$ Product price = price of the input
+
+change of revenue 
+
+
+* Marginal product is a measure of **quantity**.
+* Marginal revenue product is a measure of **revenue**.
 
