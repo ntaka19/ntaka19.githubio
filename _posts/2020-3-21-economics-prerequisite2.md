@@ -54,6 +54,8 @@ $$\begin{equation}
 \frac{M P_{L}}{P_{L}}=\frac{M P_{K}}{P_{K}}
 \end{equation}$$
 
+($$MP_L$$ and $$MP_K$$ are marginal produccts of labor and physical capital.)
+
 Mechanism: <br>
   1. "if $$MP_L/P_L$$ equals two and $$MP_K/P_K$$ is four, physical capital yields twice the output per monetary unit of input cost versus labor." 
   2. "It is obvious that the firm will want to use physical capital over labor in producing additional output because it provides more productivity on an equivalent cost basis." 
