@@ -31,10 +31,11 @@ P. 138 (43)
 * "MP and AP form the basis for marginal cost (MC) and Average Variable Cost (AVC)"
 * "MC and AVC are respective mirror images of MP and AP" (Exhibit 39)
 
+**Productivity and cost:** <br>
+* The increases in MP result in declining marginal costs from Q0 to Q1. As MP or productivity peaks at L1, MC is minimized at Q1. Diminishing marginal returns take over in Areas 2 and 3, where a decreasing marginal product results in higher marginal costs.
 
 
-The increases in MP result in declining marginal costs from Q0 to Q1. As MP or productivity peaks at L1, MC is minimized at Q1. Diminishing marginal returns take over in Areas 2 and 3, where a decreasing marginal product results in higher marginal costs.
-
+**"Because revenue, costs, and profit are measured in monetary terms, the produc- tivity of the different input factors requires comparison on a similar basis. " (ここの意味がわからない)**
 
 
 "When using a combination of resources, a least-cost optimization formula is constructed as follows":
