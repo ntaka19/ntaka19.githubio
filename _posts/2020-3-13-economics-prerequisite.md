@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microeconomics (Basic)
+title: Microeconomics Part 1 (Reading 15)
 tags: 
 - CFA1
 - Economics
@@ -16,11 +16,14 @@ Following article constitues my notes on prerequisite material on Ecomomics give
 Another helpful reference is from [Mark Meldrum's (MM) set of videos](https://www.youtube.com/watch?v=pitQYVFgibs&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=4).
 ([MM video in Economics](https://www.youtube.com/watch?v=S4cKRMSyqk0&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=34))
 
+There are 3 readings in the prerequisite material. 
+Notes below are from Reading 15. 
+
 ## 1. Various Profits
 
 - Accounting profit: Net income. 
 - Economic profit: "Economic profit is the result of subtracting both explicit and opportunity costs from revenue." (Investopia) 
-- Normal profit:
+- Normal profit : "Normal profit is a condition that exists when a company or industry's economic profit is equal to zero."
 
 
 
@@ -153,3 +156,6 @@ $$
 
 ## Other References
 * [ref-jpn](https://gakureki-zero.com/breakeven-point/)
+
+
+[Next article]({{ site.baseurl }}/economics-prerequisite2)
