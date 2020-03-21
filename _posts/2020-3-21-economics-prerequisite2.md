@@ -43,4 +43,13 @@ $$\begin{equation}
 \frac{M P_{1}}{\text { Price of input } 1}=\ldots=\frac{M P_{n}}{\text { Price of input } n}
 \end{equation}$$
 
+An example of above formula using the
+two-factor production function
+consisting of labor and physical capital: 
+
+
+$$\begin{equation}
+\frac{M P_{L}}{P_{L}}=\frac{M P_{K}}{P_{K}}
+\end{equation}$$
+
 
