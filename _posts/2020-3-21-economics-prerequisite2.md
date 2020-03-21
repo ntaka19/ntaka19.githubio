@@ -69,14 +69,12 @@ Mechanism of Eq. $$\eqref{eq:21} $$ : <br>
 
 ## 2.2 Marginal Revenue Product (MRP)
 
-revenue value of input
-
-
-marginal product $$\times$$ Product price = price of the input
-
-change of revenue 
-
-
+MRP = "change of revenue that results from one additional unit. " <br>
 * Marginal product is a measure of **quantity**.
 * Marginal revenue product is a measure of **revenue**.<br>
-[investopia](https://www.investopedia.com/terms/m/marginal-revenue-product-mrp.asp)
+[Definition from investopia](https://www.investopedia.com/terms/m/marginal-revenue-product-mrp.asp)
+
+
+
+revenue value of input
+marginal product $$\times$$ Product price = price of the input
