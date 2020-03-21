@@ -113,9 +113,12 @@ Profit maximization occurs when,
 
 (Excerpt from prerequisite material. P.121)
 
-1.is obvious. 2 and 3 need to be distinguished.
+1.is obvious. 
+Distinguising 2 and 3 is a little confusing.
 
+Second method concerns MR and MC only: 
 "If MR exceeds MC, total profit is increased by producing more units because each successive unit adds more to total revenue than it does to total costs. If MC is greater than MR, total profit is decreased when additional units are produced. The point of profit maximization occurs where MR equals MC. 
+
 
 "The third method compares the estimated cost of each unit of input to that input’s contribution with projected total revenue."
 Input is defined in the production section. This method is covered in the [next article]({{ site.baseurl }}/economics-prerequisite2).
