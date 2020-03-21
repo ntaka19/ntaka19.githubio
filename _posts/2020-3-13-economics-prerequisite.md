@@ -108,12 +108,13 @@ Profit maximization occurs when,
 2. marginal revenue (MR) equals marginal cost (MC); and
 3. the revenue value of the output from the last unit of input employed equals the cost of employing that input unit. (Regarding **Productivity**)
 
-(Excerpt from prerequisite material)
+(Excerpt from prerequisite material. P.121)
 
 1.is obvious. 2 and 3 need to be distinguished.
 
 "If MR exceeds MC, total profit is increased by producing more units because each successive unit adds more to total revenue than it does to total costs. If MC is greater than MR, total profit is decreased when additional units are produced. The point of profit maximization occurs where MR equals MC. 
 
+"The third method compares the estimated cost of each unit of input to that input’s contribution with projected total revenue."
 
 
 ## 4. Under Perfect Competition
