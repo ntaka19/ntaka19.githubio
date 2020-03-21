@@ -36,6 +36,7 @@ P. 138 (43)
 * As MP or productivity peaks at L1, MC is minimized at Q1. Diminishing marginal returns take over in Areas 2 and 3, where a decreasing marginal product results in higher marginal costs. 
 
 **"Because revenue, costs, and profit are measured in monetary terms, the produc- tivity of the different input factors requires comparison on a similar basis. " (ここの意味がわからない)**
+(Per costで考えることによってoutput を量ることができる？)
 
 
 "When using a combination of resources, a least-cost optimization formula is constructed as follows":
