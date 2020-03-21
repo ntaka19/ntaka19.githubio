@@ -54,10 +54,10 @@ $$\begin{equation}
 \end{equation}$$
 
 Mechanism: <br>
-  1. "if $$MPL/PL$$ equals two and $$MPK/PK$$ is four, physical capital yields twice the output per monetary unit of input cost versus labor." 
+  1. "if $$MP_L/P_L$$ equals two and $$MP_K/P_K$$ is four, physical capital yields twice the output per monetary unit of input cost versus labor." 
   2. "It is obvious that the firm will want to use physical capital over labor in producing additional output because it provides more productivity on an equivalent cost basis." 
   3.  "However, as more physical capital is employed, the firm’s $$MP$$ of capital declines because the law of diminishing returns impacts production." 
-  4. "Physical capital is added until its ratio of MP per monetary unit of input cost matches that of labor: $$MPK/PK = MPL/PL = 2$$." 
+  4. "Physical capital is added until its ratio of MP per monetary unit of input cost matches that of labor: $$MP_K/P_K = MP_L/P_L = 2$$." 
 
 
 
