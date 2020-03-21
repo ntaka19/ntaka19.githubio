@@ -67,7 +67,7 @@ Mechanism of Eq. $$\eqref{eq:21} $$ : <br>
 
 
 
-## 2.2 Marginal Revenue Product
+## 2.2 Marginal Revenue Product (MRP)
 
 revenue value of input
 
@@ -78,5 +78,5 @@ change of revenue
 
 
 * Marginal product is a measure of **quantity**.
-* Marginal revenue product is a measure of **revenue**.
-
+* Marginal revenue product is a measure of **revenue**.<br>
+[investopia](https://www.investopedia.com/terms/m/marginal-revenue-product-mrp.asp)
