@@ -83,7 +83,7 @@ $$\begin{equation}
 \text{marginal product} \times \text{Product price} = \text{price of the input}
 \end{equation}$$
 
-It can be easily understood if we take labor as an typical example of "input". <br> 
+It can be easily understood if we take **labor** as an typical example of "input". <br> 
 * left side = quantity of product from one additional labor $$\times$$ Product price = revenue from one additional labor force. 
 * right side = price of input eg. labor wages
 

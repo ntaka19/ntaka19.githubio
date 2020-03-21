@@ -118,7 +118,7 @@ Profit maximization occurs when,
 "If MR exceeds MC, total profit is increased by producing more units because each successive unit adds more to total revenue than it does to total costs. If MC is greater than MR, total profit is decreased when additional units are produced. The point of profit maximization occurs where MR equals MC. 
 
 "The third method compares the estimated cost of each unit of input to that input’s contribution with projected total revenue."
-
+Input is defined in the production section. This method is covered in the [next article]({{ site.baseurl }}/economics-prerequisite2).
 
 ## 4. Under Perfect Competition
 Under perfect competition, we assume that all are firms price takers.
