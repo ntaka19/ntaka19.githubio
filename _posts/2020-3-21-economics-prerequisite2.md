@@ -15,7 +15,7 @@ Productivity = Average output per unit of input.
 
 common practice: Labor resource for measuring productivity
 
-* Total product (TP):
+* Total product (TP): Aggregate sum of production of firm during a time period.
 * Average product (AP): = TP/total number of units for a give input
 * Marginal product (MP): increment of total output by adding another unit of input.
 
