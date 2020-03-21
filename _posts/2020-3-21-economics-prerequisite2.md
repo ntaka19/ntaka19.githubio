@@ -87,3 +87,15 @@ It can be easily understood if we take **labor** as an typical example of "input
 * left side = quantity of product from one additional labor $$\times$$ Product price = revenue from one additional labor force. 
 * right side = price of input eg. labor wages
 
+As mentioned, **MRP** is defined as **MP of an input unit times the price of the product**.
+
+Here, 
+"Profit maximization occurs when the MRP equates to the price or cost of the input for each type of resource that is used in the production process".
+
+
+
+For multiple factor usage (n inputs):
+
+$$\begin{equation}
+\frac{M R P_{1}}{\text { Price of input } 1}=\cdots=\frac{M R P_{n}}{\text { Price of input } n}=1
+\end{equation}$$
