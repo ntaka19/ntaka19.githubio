@@ -75,6 +75,12 @@ MRP = "change of revenue that results from one additional unit. " <br>
 [Definition from investopia](https://www.investopedia.com/terms/m/marginal-revenue-product-mrp.asp)
 
 
-
-revenue value of input
+"to determine the profit-maximizing utilization level of an input, the firm must measure the revenue value of the input’s MP and then compare this figure with the cost of the input
+revenue value of input"
+"
 marginal product $$\times$$ Product price = price of the input
+
+It can be easily understood if we take labor as an typical example of 
+* left side = quantity of product from one additional labor $$\times$$ Product price = revenue from one additional labor 
+* right side = price of input eg. labor wages
+
