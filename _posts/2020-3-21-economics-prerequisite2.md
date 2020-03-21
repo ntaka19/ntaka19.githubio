@@ -95,7 +95,7 @@ Here,
 
 Below is a instructive scenario: <br> 
 * If an input’s $$MRP$$ exceeds its cost, a contribution to profit is evident.
-* when the $$MP$$ of the last unit of labor employed is 100 and the product price is 2.00, the $$MRP$$ for that unit of labor (MRP_L) is 200.
+* when the $$MP$$ of the last unit of labor employed is 100 and the product price is 2.00, the $$MRP$$ for that unit of labor ($$MRP_L$$) is 200.
   * When the input price of labor is 125, the surplus value or contribution to profit is 75. 
 * In contrast, if $$MRP$$ is less than the input’s price, a loss would be incurred from employing that input unit. 
   * If the $$MP$$ of the next unit of labor is 50 with a product price of 2.00, $$MRP_L$$ will now be 100. With the same labor cost of 125, 
