@@ -88,12 +88,15 @@ If $$TR < TVC + TFC $$ there is loss. Now
 変動費は全て払い，残りを固定費に充てること．
 ()
 
-* However, if $$TR < TVC $$ firm should shut down production immediately (short and long run). (Shut down point: 操業停止点).
+* However, if $$TR < TVC $$ firm should shut down production immediately (short and long run). (Shutdown point: 操業停止点).
 Shutting down the firm leaves loss of $$TFC$$ (because there will be zero revenue, TVC will also be zero.) whereas if the firm keeps on going, loss $$=TFC+TVC-TR > TFC $$. 
 (操業すればするほど赤字が増える)
 
 In the long run, even what was considered fixed cost shuold be also be treated as a variable.
 Therefore, shutdown occurs when 
+
+
+**Breakeven points** (損益分岐点) are simply the quantity where total revenue equals total costs.
 
 
 ### 3.2 Profit maximization
@@ -107,11 +110,9 @@ Profit maximization occurs when,
 
 (Excerpt from prerequisite material)
 
+1.is obvious. 2 and 3 need to be distinguished.
 
-2 and 3 need to be distinguished.
-
-
-
+"If MR exceeds MC, total profit is increased by producing more units because each successive unit adds more to total revenue than it does to total costs. If MC is greater than MR, total profit is decreased when additional units are produced. The point of profit maximization occurs where MR equals MC. 
 
 
 
