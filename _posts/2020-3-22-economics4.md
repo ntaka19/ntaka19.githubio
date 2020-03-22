@@ -93,4 +93,19 @@ Natural Monopoly:
   * Average cost pricing
   * Marginal cost pricing
 
+
+
+## Pricing strategy of each firm ( )
+ \  |Perfect competition (完全競争) | Monopolistic competition (独占的競争) | Monopoly (独占)
+----|----|----|---- 
+**Pricing** |Many | Many | Few 
+
+
+\ | Oligopoly
+----|---- 
+**Game theory** | tst
+
+
+
 [^1]:Eg. Social welfare
+
