@@ -56,7 +56,8 @@ Optimal price and output for firms under each market structure.
 
 ## 13.3 Oligopoly
 
-
+* Firms are indeterdependent
+* Kinked demand curve
 
 
 
