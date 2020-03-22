@@ -7,6 +7,6 @@ tags:
 ---
 
 
- Perfect competition | Monopolistic competition | Oligopoly | Monopoly
--------- 
- Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+----|----|----|---- 
+Perfect competition | Monopolistic competition | Oligopoly | Monopoly
