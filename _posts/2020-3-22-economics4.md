@@ -61,3 +61,11 @@ Optimal price and output for firms under each market structure.
 
 
 
+
+## Monopoly
+
+
+In comparision with perfect competition:
+* **Dead weight loss** (Difference from sum of maximum consumer and supplier surplus.)
+  * Can be reduced with multiple pricing
+
