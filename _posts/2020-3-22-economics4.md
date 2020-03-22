@@ -12,7 +12,7 @@ tags:
 
 Fill in the below table.
 
- \  |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+ \  |Perfect competition (完全競争) | Monopolistic competition (独占的競争) | Oligopoly (寡占) | Monopoly (独占)
 ----|----|----|----|---- 
 **Number of Sellers** |Many | Many | Few | Few 
 **Barriers to entry** |very low | low | high | very high 
@@ -43,7 +43,7 @@ Relation with Demand Curve and MR:
   * $$AR>MR$$ at all points because, $$TR$$ curve has decreasing slope throughout. Q-TR curveが上に凸で，二回微分が負だから，$$\frac{\partial TR}{\partial Q}$$ はずっと減少している．(See further exhibit 6 in prerequisite material) 
 
 
-Long run equilbrium comparision:
+Factors Long run equilbrium comparision (LOS 13.e):
 * markup (値上げ)
 * excess capacity or an inefficient economic scale of production. 
 * product innovation is necessary. close substitutes and imitations emerge.
@@ -54,7 +54,7 @@ Long run equilbrium comparision:
 Optimal price and output for firms under each market structure.
 
 
-## 13.3 Oligopoly
+## 13.3 Oligopoly (寡占)
 
 * Firms are indeterdependent
 * Kinked demand curve
