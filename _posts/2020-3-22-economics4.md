@@ -19,4 +19,5 @@ Fill in the below table.
 **Nature of substitute products** | very good substitutes| good but differentiated| very good or differentiated | no good substitutes 
 **Nature of competition**| Price only | price, marketing , features |  price, marketing , features| advertising 
 **Pricing Power**| None | some | some to significant | significant 
+**Examples**|  | Tooth paste industry | Car, oil | 
 
