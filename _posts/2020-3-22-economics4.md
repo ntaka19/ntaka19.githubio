@@ -33,7 +33,6 @@ Most theories of perfect competition are covered in prerequisite material:
 
 ### 13.2 Monopolistic Competition
 
-### Functional differences between perfect competition:
 
 - Downward sloping demand curve. (price searcher)
 
@@ -55,6 +54,7 @@ Long run equilbrium comparision:
 Optimal price and output for firms under each market structure.
 
 
+## 13.3 Oligopoly
 
 
 
