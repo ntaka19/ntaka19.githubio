@@ -61,7 +61,7 @@ Optimal price and output for firms under each market structure.
 
 ## 13.3 Oligopoly (寡占)
 
-* Firms are interdependent so a price change by one firm can be expected to be met by a price 
+* Firms are **interdependent** so a price change by one firm can be expected to be met by a price. 4 different models: 
   1. Kinked demand curve:  
   2. Cournot duopoly model:
   3. Nash equilbrium model:General type of Cournot duopoly.
@@ -84,3 +84,7 @@ In comparision with perfect competition:
 
 Natural Monopoly:
 * Given the economy of scale (downward of ATC), 
+* Pricing
+  * Average cost pricing
+  * Marginal cost pricing
+
