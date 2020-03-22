@@ -19,7 +19,7 @@ Fill in the below table.
 **Nature of substitute products** | very good substitutes| good but differentiated| very good or differentiated | no good substitutes 
 **Nature of competition**| Price only | price, marketing , features |  price, marketing , features| advertising 
 **Pricing Power**| None | some | some to significant | significant 
-**Examples**| Wheat  | Tooth paste industry | Car, oil | Electricity 
+**Examples**| Wheat in region  | Tooth paste industry | Car, oil | Electricity 
 
 * perfect : 完全競争 . All others are imperfect competition!
 * monopolistic: 独占的競争 
@@ -72,6 +72,11 @@ Optimal price and output for firms under each market structure.
 
 ## 13.4 Monopoly
 
+
+$$\begin{equation}
+MR = P(1-{frac{1}{E_p})
+\end{equation}$$
+where, $$E_p$$ is the absolute value of the price of elasticity of demand at price = P. 
 
 In comparision with perfect competition:
 * **Dead weight loss** (Difference from sum of maximum consumer and supplier surplus.)
