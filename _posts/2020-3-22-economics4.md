@@ -7,8 +7,14 @@ tags:
 ---
 
 
-# The Firm and Market Structures 
+## The Firm and Market Structures 
+
+
 
  |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
 ----|----|----|----|---- 
-**Number of Sellers** |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+**Number of Sellers** || | | 
+**Barriers to entry** || | | 
+**Nature of substitute products** || | | 
+**Pricing Power**|| | | 
+
