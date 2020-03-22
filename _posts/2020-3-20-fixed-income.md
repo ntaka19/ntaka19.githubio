@@ -11,6 +11,10 @@ tags:
 ## Fixed Income
 
 1.  Bond that promises series of interest payments in fized amounts and repay the princical amount at maturity.  
-  - Increase in market interest rates(i.e. yields on bonds), decreases present value of bonds.(the ones you own.) 
-  This is because 
+  - Increase in market interest rates(i.e. yields on bonds), decreases present value of bonds.(the ones bought before the change in yields.) 
+
+2. Bonds rate based on their relative probability of default. Compensation of risk with yields.
+
+
+  
 
