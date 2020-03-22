@@ -12,7 +12,7 @@ tags:
 
 Fill in the below table.
 
- \   |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+ \  |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
 ----|----|----|----|---- 
 **Number of Sellers** |Many | Many | Few | Few 
 **Barriers to entry** |very low | low | high | very high 
@@ -21,3 +21,6 @@ Fill in the below table.
 **Pricing Power**| None | some | some to significant | significant 
 **Examples**|  | Tooth paste industry | Car, oil | 
 
+Most theories of perfect competition are covered in prerequisite material: 
+[post 1]({{ site.baseurl }}/economics-prerequisite)
+[post 2]({{ site.baseurl }}/economics-prerequisite2)
