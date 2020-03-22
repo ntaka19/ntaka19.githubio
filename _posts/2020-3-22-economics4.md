@@ -103,10 +103,11 @@ Natural Monopoly:
 
  \  | Perfect competition (完全競争) | Monopolistic competition (独占的競争) | Monopoly (独占)
 ----|----|----|---- 
-**Pricing** |Many | Many | Few 
+**Pricing** | Many | Many | Few 
 
+In the case of oligopoly price is dependent on other firms.
 
-\ | Oligopoly
+\ | Oligopoly(寡占)
 ----|---- 
 **Game theory** | tst
 
