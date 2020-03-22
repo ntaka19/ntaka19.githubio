@@ -15,6 +15,8 @@ Following article constitues my notes on prerequisite material on Ecomomics give
 
 Another helpful reference is from [Mark Meldrum's (MM) set of videos](https://www.youtube.com/watch?v=pitQYVFgibs&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=4).
 ([MM video in Economics](https://www.youtube.com/watch?v=S4cKRMSyqk0&list=PLM9WI-4yn8BIkIVB9yfFcTVKT3uO_d3hZ&index=34))
+([MM video in self-study](https://www.youtube.com/watch?v=6pVfMjeBPq0))
+
 
 There are 3 readings in the prerequisite material. 
 Notes below are from Reading 15. 
