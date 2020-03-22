@@ -7,6 +7,8 @@ tags:
 ---
 
 
-Perfect competition | Monopolistic competition | Oligopoly | Monopoly
-----|----|----|---- 
-Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+# The Firm and Market Structures 
+
+ |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+----|----|----|----|---- 
+**Number of Sellers** |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
