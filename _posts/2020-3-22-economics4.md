@@ -47,6 +47,10 @@ Long run equilbrium comparision:
 * markup (値上げ)
 * excess capacity or an inefficient economic scale of production. 
 * product innovation is necessary. close substitutes and imitations emerge.
+  * optimal: marginal cost of (additional) innovation = marginal revenue of (additional) innovation
+* High Advertising expenses
+* Brand names.
+
 
 
 
