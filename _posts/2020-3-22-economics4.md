@@ -65,7 +65,7 @@ Optimal price and output for firms under each market structure.
   1. Kinked demand curve:  
   2. Cournot duopoly model:
   3. Nash equilbrium model:General type of Cournot duopoly.
-  4. Stakelberg dominant firm model:
+  4. Stakelberg dominant firm model: Price
 
 
 
@@ -84,8 +84,11 @@ In comparision with perfect competition:
   * Can be reduced with multiple pricing
 
 Natural Monopoly:
-* Given the economy of scale (downward of ATC), 
-* Pricing regulation (because monopolists produce *less* than **optimal quantity**)
+* Given the economy of scale (Downward ATC. more production, less per cost), 
+* Monopolists produce *less* than **optimal quantity**
+  * because monopolists want $$MR = MC$$. However, maximum surplus is attained when Demand curve=MC=(supply curve).  
+* Pricing regulation by government for allocative efficiency[^1] (because monopolists produce *less* than **optimal quantity**)
   * Average cost pricing
   * Marginal cost pricing
 
+[^1]:Eg. Social welfare
