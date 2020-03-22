@@ -43,9 +43,11 @@ Relation with Demand Curve and MR:
   * $$AR = TR(=P \times Q)/Q$$ so $$AR$$ is a demand curve.
   * $$AR>MR$$ at all points because, $$TR$$ curve has decreasing slope throughout. Q-TR curveが上に凸で，二回微分が負だから，$$\frac{\partial TR}{\partial Q}$$ はずっと減少している．(See further exhibit 6 in prerequisite material) 
 
-Long run equilbrium:
+Long run equilbrium comparision:
 * markup (値上げ)
 * excess capacity or an inefficient economic scale of production. 
+* product innovation is necessary. close substitutes and imitations emerge.
+
 
 
 
