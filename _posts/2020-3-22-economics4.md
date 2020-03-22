@@ -40,7 +40,7 @@ Most theories of perfect competition are covered in prerequisite material:
 Relation with Demand Curve and MR: 
 * In perfect competition,  demand curve = market price = MR (traits of Price-taker) 
 * For imperfect competition, MR starts at the same point as demand curve. However, MR is steeper than demand curve (=AR). 
-  * $$AR = TR(=P\timesQ)/Q$$ so $$AR$$ is a demand curve.
+  * $$AR = TR(=P \times Q)/Q$$ so $$AR$$ is a demand curve.
   * $$AR>MR$$ at all points because, $$TR$$ curve has decreasing slope throughout. Q-TR curveが上に凸で，二回微分が負だから，$$\frac{\partial TR}{\partial Q}$$ はずっと減少している．(See further exhibit 6 in prerequisite material) 
 
 Long run equilbrium:
