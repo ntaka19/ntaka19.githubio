@@ -12,7 +12,7 @@ tags:
 
 Fill in the below table.
 
- |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
+ \   |Perfect competition | Monopolistic competition | Oligopoly | Monopoly
 ----|----|----|----|---- 
 **Number of Sellers** |Many | Many | Few | Few 
 **Barriers to entry** |very low | low | high | very high 
