@@ -22,7 +22,7 @@ Fill in the below table.
 **Examples**| Wheat in region  | Tooth paste industry | Car, oil | Electricity 
 
 * perfect : 完全競争 . All others are imperfect competition!
-* monopolistic: 独占的競争 
+* monopolistic: 独占的競争. Many sellersは"competition"で覚える． 
 * oligopoly: 寡占
 * Monopoly: 独占
 
@@ -70,7 +70,7 @@ Optimal price and output for firms under each market structure.
 
 
 
-## 13.4 Monopoly
+## 13.4 Monopoly (独占)
 
 
 $$\begin{equation}
@@ -85,7 +85,7 @@ In comparision with perfect competition:
 
 Natural Monopoly:
 * Given the economy of scale (downward of ATC), 
-* Pricing
+* Pricing regulation (because monopolists produce *less* than **optimal quantity**)
   * Average cost pricing
   * Marginal cost pricing
 
