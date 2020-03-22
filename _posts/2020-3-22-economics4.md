@@ -61,8 +61,11 @@ Optimal price and output for firms under each market structure.
 
 ## 13.3 Oligopoly (寡占)
 
-* Firms are indeterdependent
-* Kinked demand curve
+* Firms are interdependent so a price change by one firm can be expected to be met by a price 
+  1. Kinked demand curve:  
+  2. Cournot duopoly model:
+  3. Nash equilbrium model:
+  4. Stakelberg dominant firm model:
 
 
 
