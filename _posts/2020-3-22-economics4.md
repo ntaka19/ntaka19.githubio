@@ -41,6 +41,9 @@ Relation with Demand Curve and MR:
 * For imperfect competition, MR starts at the same point as demand curve. However, MR is steeper than demand curve (=AR). 
   * $$AR = TR(=P \times Q)/Q$$ so $$AR$$ is a demand curve.
   * $$AR>MR$$ at all points because, $$TR$$ curve has decreasing slope throughout. Q-TR curveが上に凸で，二回微分が負だから，$$\frac{\partial TR}{\partial Q}$$ はずっと減少している．(See further exhibit 6 in prerequisite material) 
+  * Example: $$\begin{equation}
+  \begin{array}{c}Q_{D}=40-5 P \\ 5 P=40-Q \quad P=8-\frac{1}{5} Q \\ T R=P \times Q=\left(8-\frac{1}{5} Q\right) Q \\ =8 Q-\frac{1}{5} Q^{2} \\ M R=\frac{d T R}{d Q} \cdot 8-\frac{2}{5} Q\end{array}
+  \end{equation}$$
 
 
 Factors Long run equilbrium comparision (LOS 13.e):
