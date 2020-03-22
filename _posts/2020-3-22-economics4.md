@@ -100,7 +100,8 @@ Natural Monopoly:
 
 
 ## Pricing strategy of each firm ( )
- \  |Perfect competition (完全競争) | Monopolistic competition (独占的競争) | Monopoly (独占)
+
+ \  | Perfect competition (完全競争) | Monopolistic competition (独占的競争) | Monopoly (独占)
 ----|----|----|---- 
 **Pricing** |Many | Many | Few 
 
