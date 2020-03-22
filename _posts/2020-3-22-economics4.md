@@ -62,7 +62,7 @@ Optimal price and output for firms under each market structure.
 
 
 
-## Monopoly
+## 13.4 Monopoly
 
 
 In comparision with perfect competition:
