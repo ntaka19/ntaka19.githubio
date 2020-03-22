@@ -74,8 +74,9 @@ Optimal price and output for firms under each market structure.
 
 
 $$\begin{equation}
-MR = P(1-{frac{1}{E_p})
+MR = P(1-frac{1}{E_p})
 \end{equation}$$
+
 where, $$E_p$$ is the absolute value of the price of elasticity of demand at price = P. 
 
 In comparision with perfect competition:
