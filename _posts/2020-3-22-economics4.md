@@ -35,11 +35,10 @@ Most theories of perfect competition are covered in prerequisite material:
 
 Functional differences between perfect competition:
 
-* Downward sloping demand curve. (price searcher)
-*  Relation with Demand Curve and MR
+- Downward sloping demand curve. (price searcher)
+-  Relation with Demand Curve and MR
   * In perfect competition,  demand curve = market price = MR (traits of Price-taker) 
-  * However, in monopolisitic,
-  * MR starts at the same point as demand curve. However, MR is steeper. 
-    * $$AR = TR/Q$$ so it is a demand curve.
+  * For imperfect competition, MR starts at the same point as demand curve. However, MR is steeper than demand curve (=AR). 
+    * $$AR = TR/Q$$ so $$AR$$ is a demand curve.
     * $$AR>MR$$ at all points because, $$TR$$ curve has decreasing slope throughout. Q-TR curveが上に凸で，二回微分が負だから，$$\frac{\partial TR}{\partial Q}$$ はずっと減少している．
       (See further exhibit 6 in prerequisite material) 
