@@ -98,6 +98,23 @@ Natural Monopoly:
 ### Reason why supply curve cannot be determined in imperfect competition.
 
 
+* Demand curve in perfect competiton $$P = MR = \text{constant}$$
+
+* Supply curve (short run) in perfect competiton $$P = MC$$
+  1. A profit-maximizing firm produces the quantity of output that equates marginal revenue and marginal cost (MR = MC).
+  2. A perfectly competitive firm is characterized by the equality between price and marginal revenue (P = MR).
+  3. The law of diminishing marginal returns gives the marginal cost curve a positive slope.
+  - Combining all three points means that a profit-maximizing perfectly competitive firm produces the quantity of output that equates price and marginal cost (P = MC).
+  from [link](https://www.amosweb.com/cgi-bin/awb_nav.pl?s=wpd&c=dsp&k=perfect+competition,+short-run+supply+curve)
+
+
+Steps to answer: <br>
+1. In all cases, profit maximization is given at $$MR=MC$$. Here, quantity $$Q$$ is determined.
+2. In the imperfect competition, Demand curve does not equal MC because it is down sloped. Demand curve determines the price. 
+3. Find price at $$Q$$ computed in 1 in the demand curve (=$$P$$). Plotting ($$P, Q$$) yields supply curve of the firm.
+
+
+
 
 ## Pricing strategy of each firm ( )
 
