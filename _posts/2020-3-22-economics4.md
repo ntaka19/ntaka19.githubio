@@ -110,7 +110,7 @@ Natural Monopoly:
    [reference](https://www.amosweb.com/cgi-bin/awb_nav.pl?s=wpd&c=dsp&k=perfect+competition,+short-run+supply+curve).
 
 
-**Imperfect competition:** <br>
+**Imperfect competition:** (P.42) <br>
 1. In all cases, profit maximization is given at $$MR=MC$$. Here, profit maximizing quantity $$Q$$ is determined.
 2. In the imperfect competition, demand curve does not equal MC because as it is down sloped.  
 3. Find price at $$Q$$ computed in 1 in the demand curve to obtain $$P$$. Plotting ($$P, Q$$) yields supply curve of the firm. (Profit maximizing $$Q$$ for a given price)
@@ -122,9 +122,11 @@ Therefore supply curve is not unique.
 
 
 You need two points to compute price.
+Q = f(P)
 
 
-## Pricing strategy of each firm ( )
+
+## Pricing strategy of each market structure (LOS 13.f )
 
  \  | Perfect competition | Monopolistic competition | Monopoly 
 ----|----|----|---- 
@@ -135,10 +137,9 @@ In the case of oligopoly price is dependent on other firms.
 \ | Oligopoly(寡占)
 ----|---- 
 **Kinked demand curve** | Price changes when competitior decreases their price.
-**Collusion** | 
+**Collusion** | Share market to maximize total industries. Produce total quantity for which MR = MC and charge the price from industry demand curve. 
 **Dominant firm model** | 
-**Game theory** | 
-
+**Game theory** | Nash equilbrium
 
 
 [^1]:Eg. Social welfare
