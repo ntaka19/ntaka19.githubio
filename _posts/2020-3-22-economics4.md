@@ -133,7 +133,6 @@ In the case of oligopoly price is dependent on other firms.
 
 \ | Oligopoly(寡占)
 ----|---- 
-
 **Kinked demand curve** | Price changes when competitior decreases their price.
 **Collusion** | 
 **Dominant firm model** | 
