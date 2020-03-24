@@ -72,7 +72,6 @@ Optimal price and output for firms under each market structure.
 
 ## 13.4 Monopoly (独占)
 
-* afa
 
 $$\begin{equation}
 MR = P(1-\frac{1}{E_p})
