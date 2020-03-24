@@ -87,7 +87,7 @@ In comparision with perfect competition:
 Natural Monopoly:
 * Given the economy of scale (Downward ATC. more production, less per cost), 
 * Monopolists produce *less* than **optimal quantity**
-  * because monopolists want $$MR = MC$$. Maximum surplus is attained in perfect competition where **Demand curve(=Marginal Benefit \neq MR)=MC=(supply curve)**. 
+  * because monopolists want $$MR = MC$$. Maximum surplus is attained in perfect competition where **Demand curve(=Marginal Benefit $$\neq$$ MR)=MC=(supply curve)**. 
   Given price, marginal costs determine how much the firm is willing to supply(少し考えたら分かる).  
 * Pricing regulation by government for allocative efficiency[^1] (because monopolists produce *less* than **optimal quantity**)
   * Average cost pricing
