@@ -121,8 +121,8 @@ Therefore supply curve is not unique.
 [reference](http://www.economicsdiscussion.net/monopoly/constructing-a-supply-curve-under-monopoly/17069)
 
 
-You need two points to compute price.
-Q = f(P)
+* You need two points to compute price.
+* No well defined supply function. $$Q = f(P)$$
 
 
 
