@@ -125,7 +125,7 @@ Therefore supply curve is not unique.
 
 ## Pricing strategy of each firm ( )
 
- \  | Perfect competition (完全競争) | Monopolistic competition (独占的競争) | Monopoly (独占)
+ \  | Perfect competition | Monopolistic competition | Monopoly 
 ----|----|----|---- 
 **Pricing** | P = MR = MC | P > MR = MC | P> MR = MC  
 
