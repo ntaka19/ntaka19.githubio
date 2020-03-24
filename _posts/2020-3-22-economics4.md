@@ -108,7 +108,7 @@ Natural Monopoly:
   from [link](https://www.amosweb.com/cgi-bin/awb_nav.pl?s=wpd&c=dsp&k=perfect+competition,+short-run+supply+curve).
 
 
-Imperfect competition: <br>
+**Imperfect competition:** <br>
 1. In all cases, profit maximization is given at $$MR=MC$$. Here, quantity $$Q$$ is determined.
 2. In the imperfect competition, Demand curve does not equal MC because it is down sloped. Demand curve determines the price at the given quantity. 
 3. Find price at $$Q$$ computed in 1 in the demand curve to obtain $$P$$. Plotting ($$P, Q$$) yields supply curve of the firm.
