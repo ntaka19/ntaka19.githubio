@@ -86,7 +86,7 @@ In comparision with perfect competition:
 
 Natural Monopoly (P.40):
 * Occurs at a region of economy of scale (defined when Downward ATC throught the relevant range of consumer demand. more production, less per cost), 
-* Monopolists produce *less* than **optimal quantity** 
+* Monopolists produce *less* than **optimal quantity** (ref. Figure 13.21)
   * because monopolists want $$MR = MC$$. Maximum surplus is attained in perfect competition where **Demand curve(=Marginal Benefit $$\neq$$ MR)=MC=(supply curve)**. 
 * Pricing regulation by government for allocative efficiency[^1] (because monopolists produce *less* than **optimal quantity**)
   * Average cost pricing: Reduce price to where ATC intersects market demand curve. ensure normla profit because p = ATC.
