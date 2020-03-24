@@ -137,8 +137,7 @@ In the case of oligopoly price is dependent on other firms.
 ----|---- 
 **Kinked demand curve** | Price changes when competitior decreases their price.
 **Collusion** | Share market to maximize total industries. Produce total quantity for which MR = MC and charge the price from industry demand curve. Share resulting economic profit. 
-**Dominant firm model** | Leader firm has lowest cost & largest share. Leader: MR=MC to compute quantity, use firm demand curve to compute price. Follower: Use the price determined to compute quantity. 
-(firm demand curves are different among leader and followers)  [ref](https://www.youtube.com/watch?v=E76nSY1RW0c) 
+**Dominant firm model** | Leader firm has lowest cost & largest share. Leader: MR=MC to compute quantity, use firm demand curve to compute price. Follower: Use the price determined to compute quantity. (firm demand curves are different among leader and followers)  [ref](https://www.youtube.com/watch?v=E76nSY1RW0c) 
 **Game theory** | Nash equilbrium
 
 
