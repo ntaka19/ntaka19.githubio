@@ -103,9 +103,10 @@ Natural Monopoly:
 * Demand curve in perfect competiton $$P = MR = \text{constant}$$
 * Supply curve (short run) in perfect competiton $$P = MC$$ (Segment above ATC). (Horizontal sum of supply curve of all firms gives  market supply curve.)
   1. A **profit-maximizing** firm produces the quantity of output that equates marginal revenue and marginal cost (MR = MC).
-  2. A perfectly competitive firm is characterized by the equality between price and marginal revenue (P = MR).
+  2. A perfectly competitive firm is characterized by the equality between price and marginal revenue (P = MR). P is constant nevertheless the quantity (=price taker).
   3. The law of diminishing marginal returns gives the marginal cost curve a positive slope.
-  - Combining all three points means that a profit-maximizing perfectly competitive firm produces the quantity of output that equates price and marginal cost (P = MC).
+  - Combining all three points: **profit-maximizing** perfectly competitive firm **produces** the quantity of output that equates price and marginal cost (P = MC).
+  Which is basically the definition of supply curve.
   from [link](https://www.amosweb.com/cgi-bin/awb_nav.pl?s=wpd&c=dsp&k=perfect+competition,+short-run+supply+curve).
 
 
