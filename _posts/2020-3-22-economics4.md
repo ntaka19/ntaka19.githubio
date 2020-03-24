@@ -101,7 +101,7 @@ Natural Monopoly:
 
 **Perfect competition** <br>
 * Demand curve in perfect competiton $$P = MR = \text{constant}$$
-* Supply curve (short run) in perfect competiton $$P = MC$$ (Segment above ATC). (Horizontal sum of supply curve of all firms gives  market supply curve.)
+* Supply curve (short run) in perfect competiton $$P = MC$$ (Segment above shutdown or AVC in short term). (Horizontal sum of supply curve of all firms gives  market supply curve.)
   1. A **profit-maximizing** firm produces the quantity of output that equates marginal revenue and marginal cost (MR = MC).
   2. A perfectly competitive firm is characterized by the equality between price and marginal revenue (P = MR). P is constant nevertheless the quantity (=price taker).
   3. The law of diminishing marginal returns gives the marginal cost curve a positive slope.
@@ -121,6 +121,7 @@ Therefore supply curve is not unique.
 [reference](http://www.economicsdiscussion.net/monopoly/constructing-a-supply-curve-under-monopoly/17069)
 
 
+You need two points to compute price.
 
 
 ## Pricing strategy of each firm ( )
