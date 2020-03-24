@@ -143,7 +143,7 @@ In the case of oligopoly price is dependent on other firms.
 ## Concentration measures (LOS. 13.g)
 
 1. N-firm concentation ratio: sum of top N firm shares in ratio to total firm shares.
-2. Herfindahl-Hirschman Index (HHI): squared-sum of top N firm shares in ratio to total firm shares.
+2. Herfindahl-Hirschman Index (HHI): squared-sum of top N firm shares in ratio to total firm shares. Sensitive to merger.
 
 [^1]:Eg. Social welfare
 
