@@ -99,7 +99,7 @@ Natural Monopoly:
 
 
 
-**Perfect competition**
+**Perfect competition** <br>
 * Demand curve in perfect competiton $$P = MR = \text{constant}$$
 * Supply curve (short run) in perfect competiton $$P = MC$$ (Segment above ATC). (Horizontal sum of supply curve of all firms gives  market supply curve.)
   1. A **profit-maximizing** firm produces the quantity of output that equates marginal revenue and marginal cost (MR = MC).
