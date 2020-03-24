@@ -127,13 +127,17 @@ Therefore supply curve is not unique.
 
  \  | Perfect competition (完全競争) | Monopolistic competition (独占的競争) | Monopoly (独占)
 ----|----|----|---- 
-**Pricing** | Many | Many | Few 
+**Pricing** | P = MR = MC | P > MR = MC | P> MR = MC  
 
 In the case of oligopoly price is dependent on other firms.
 
 \ | Oligopoly(寡占)
 ----|---- 
-**Game theory** | tst
+
+**Kinked demand curve** | Price changes when competitior decreases their price.
+**Collusion** | 
+**Dominant firm model** | 
+**Game theory** | 
 
 
 
