@@ -120,7 +120,8 @@ Therefore supply curve is not unique.
 “As a result, shifts in demand do not trace out a series of prices and quantities as happens with a competitive supply curve.”
 [reference](http://www.economicsdiscussion.net/monopoly/constructing-a-supply-curve-under-monopoly/17069)
 
-* No well defined supply function. $$Q = f(P)$$. (Priceが決まればQが決まるかどうかを考えると分かる)
+* No well defined supply function. $$Q = f(P)$$.[ref](https://www.youtube.com/watch?v=VXds8b9Z03w)
+  * In competition, $$P=MR=MC$$, $$P=MC(Q)$$.  
 
 
 
