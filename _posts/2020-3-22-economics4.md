@@ -95,9 +95,7 @@ Natural Monopoly:
 
 
 
-### Reason why supply curve cannot be determined in imperfect competition.
-
-
+### Supply curve cannot be determined in imperfect competition (various explanations)
 
 **Perfect competition** <br>
 * Demand curve in perfect competiton $$P = MR = \text{constant}$$
@@ -122,7 +120,7 @@ Therefore supply curve is not unique.
 
 * No well defined supply function. $$Q = f(P)$$.[ref](https://www.youtube.com/watch?v=VXds8b9Z03w)
   * In competition, $$P=MR=MC$$, $$P=MC(Q)$$.  
-
+* 独占の場合，「クールノーの点のみ存在する」.[ref](http://www2.toyo.ac.jp/~m-hotta/microB8.pdf)
 
 
 ## Pricing strategy of each market structure (LOS 13.f )
