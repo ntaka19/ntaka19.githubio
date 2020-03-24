@@ -114,7 +114,7 @@ Natural Monopoly:
 1. In all cases, profit maximization is given at $$MR=MC$$. Here, profit maximizing quantity $$Q$$ is determined.
 2. In the imperfect competition, demand curve does not equal MC because as it is down sloped.  
 3. Find price at $$Q$$ computed in 1 in the demand curve to obtain $$P$$. Plotting ($$P, Q$$) yields supply curve of the firm. (Profit maximizing $$Q$$ for a given price)
-4. However, there is no one to one relationship between $$P$$ and $$ Q$$ because different slopes of demand curve can be given. 
+4. However, there is no one to one relationship between $$P$$ and $$Q$$ because different slopes of demand curve can be given. 
 Therefore supply curve is not unique. 
 
 “As a result, shifts in demand do not trace out a series of prices and quantities as happens with a competitive supply curve.”
