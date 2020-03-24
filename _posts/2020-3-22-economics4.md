@@ -90,8 +90,8 @@ Natural Monopoly:
   * because monopolists want $$MR = MC$$. Maximum surplus is attained in perfect competition where **Demand curve(=Marginal Benefit $$\neq$$ MR)=MC=(supply curve)**. 
   Given price, marginal costs determine how much the firm is willing to supply(少し考えたら分かる).  
 * Pricing regulation by government for allocative efficiency[^1] (because monopolists produce *less* than **optimal quantity**)
-  * Average cost pricing
-  * Marginal cost pricing
+  * Average cost pricing: Reduce price to where ATC intersects market demand curve. ensure normla profit because p = ATC.
+  * Marginal cost pricing: MC intersects market demand curve. 
 
 
 
@@ -140,6 +140,10 @@ In the case of oligopoly price is dependent on other firms.
 **Dominant firm model** | Leader firm has lowest cost & largest share. Leader: MR=MC to compute quantity, use firm demand curve to compute price. Follower: Use the price determined to compute quantity. (firm demand curves are different among leader and followers)  [ref](https://www.youtube.com/watch?v=E76nSY1RW0c) 
 **Game theory** | Nash equilbrium
 
+## Concentration measures (LOS. 13.g)
+
+1. N-firm concentation ratio: sum of top N firm shares in ratio to total firm shares.
+2. Herfindahl-Hirschman Index (HHI): squared-sum of top N firm shares in ratio to total firm shares.
 
 [^1]:Eg. Social welfare
 
