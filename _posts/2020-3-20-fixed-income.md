@@ -16,5 +16,10 @@ tags:
 2. Bonds rate based on their relative probability of default. Compensation of risk with yields. Decrease in bond rating decreases price, thus increasing the yield.
 
 
+
+* zero coupon bonds (pure discount bonds)
+ 
+
+
   
 
