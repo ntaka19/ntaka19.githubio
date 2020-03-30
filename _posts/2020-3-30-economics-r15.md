@@ -9,6 +9,9 @@ tags:
 
 ## Business Cycle
 
+Aspects:
+* Inventory-Sales ratio (inventory/sales)
+
 
 1. Trough
   - GDP growth rate changes from negative to positive
