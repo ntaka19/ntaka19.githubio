@@ -22,12 +22,9 @@ tags:
 
 **LOS. 15.c Theories of business cycle** <br>
 
-* Neoclassical school (新古典学派)
-
-* Keynesian school
-
-* New Keynesian school
-
-* Austrian school
-
-* New classical school (新しい古典派)
+1. Neoclassical school (新古典学派)
+2. Keynesian school
+3. Monetarist school
+4. New Keynesian school
+5. Austrian school
+6. New classical school (新しい古典派)
