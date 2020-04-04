@@ -13,13 +13,13 @@ Aspects:
 * Inventory-Sales ratio (inventory/sales)
 
 
-1. Trough
+1. Trough (不況)
   - GDP growth rate changes from negative to positive
-2. Expansion
+2. Expansion (回復)
   - GDP growth rate increases. 
-3. Peak
+3. Peak (好況)
 
-4. Contraction/recession
+4. Contraction/recession (後退)
 
 
 
