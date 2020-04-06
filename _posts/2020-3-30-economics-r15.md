@@ -26,8 +26,7 @@ Aspects:
 1. Housing sector activity
 *  Mortgage rates: Low -> increase home buying construction.
 *  Housing costs (Home and including mortgage financing costs) to relative income: home buying and construction. 
-*  Speculative activity:
-2. 
+*  Speculative activity:  
 
 **LOS. 15.c Theories of business cycle** <br>
 
@@ -37,3 +36,14 @@ Aspects:
 4. New Keynesian school
 5. Austrian school
 6. New classical school (新しい古典派)
+
+
+
+**15.f construction of indexes**
+
+* CPI: 
+* PPI: calculated from prices of goods in process. different stages of processing.
+* WPI:
+
+
+
