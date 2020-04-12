@@ -64,6 +64,8 @@ Equivalent explanation:
   * Central bank will likely undershoot inflation target. → Fall in inflation expectations.
 
 
+[link](https://www.youtube.com/watch?v=KKHi1HKTpD4) (from 22:30)
+
 
 
 * **Bond market vigilantes** reduce their demand for long-term bonds to push up their yields.
