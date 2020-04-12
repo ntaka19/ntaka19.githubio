@@ -58,6 +58,11 @@ Aspects:
   * *Because* long-term bond yields include premium for expected inflation
   * Facilitates towards *increase* of econ growth.
 
+* Bond market participants think short term rates are already too high.
+  * Therefore, authorities are risking a recession.
+  * Central bank will likely undershoot inflation target. → Fall in inflation expectations.
+
+
 
 
 * **Bond market vigilantes** reduce their demand for long-term bonds to push up their yields.
