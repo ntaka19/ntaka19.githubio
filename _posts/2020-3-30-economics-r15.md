@@ -54,9 +54,9 @@ Aspects:
 
 1. Decrease money supply by setting higher interest rate (To slow down the economy)
 2. People expect lower future inflation rate.
-3. Long-term rates could fall.
+3. Long-term rates (refers to government bonds maturing in 10 yrs) could fall.
   * *Because* long-term bond yields include premium for expected inflation
-  * Facilitates towards *increase* of econ growth.
+4. Facilitates towards *increase* of econ growth.
 
 Equivalent explanation:
 * Bond market participants think short term rates are already too high.
