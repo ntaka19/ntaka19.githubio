@@ -53,11 +53,16 @@ Aspects:
 **LOS 16.n Describe limitations of monetary policy**
 
 1. Decrease money supply by setting higher interest rate (To slow down the economy)
-2. People expect lower future inflation rate
-3. Long-term rates could fall
+2. People expect lower future inflation rate.
+3. Long-term rates could fall.
   * *Because* long-term bond yields include premium for expected inflation
   * Facilitates towards *increase* of econ growth.
 
 
 
 * **Bond market vigilantes** reduce their demand for long-term bonds to push up their yields.
+
+* Liquidity trap
+  * Highly elastic demand for money. (Interest rate vs. quantity)
+
+
