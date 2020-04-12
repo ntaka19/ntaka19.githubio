@@ -41,7 +41,7 @@ Aspects:
 
 **15.f construction of indexes**
 
-* CPI: 
+* CPI (Consumer Price Index): 
 * PPI: calculated from prices of goods in process. different stages of processing.
 * WPI:
 
@@ -60,6 +60,5 @@ Aspects:
 
 
 
-Bond market vigilantes?
-
-
+**Bond market vigilantes** reduce their demand for long-term bonds to push up their yields.
+* when believe that monetary authority is losing its grip on inflation...?
