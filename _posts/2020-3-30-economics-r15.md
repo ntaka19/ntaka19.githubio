@@ -86,6 +86,8 @@ Equivalent explanation:
 
 ### Elasticities Approach 
 
+Effect of currency depreciation in terms of current accounts(経常収支). 
+
 Marshall-Lerner condition:
 - The condition under which a depreciation of the domestic currency will decrease a trade deficit.
 
@@ -100,13 +102,19 @@ W_X \epsilon_X + W_M (\epsilon_M-1) > 0
 
 ### Absorption Approach
 
+The effect of currency depreication in terms of capital account. 
+
 
 $$\begin{equation}
 BT = Y - E
 \end{equation}$$
 
 - Y: domestic production of goods and services of national income
-- E: Domestic absorption of goods (=内需＝総支出)
+- E: Domestic absorption(=内需＝総支出) of goods.
 - BT: Balance of trade
 
+BT<0 shows the state of trade deficit. 
+
+
+経常収支が赤字の国は資本収支は黒字．
 
