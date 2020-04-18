@@ -88,8 +88,9 @@ Equivalent explanation:
 
 Effect of currency depreciation in terms of current accounts(経常収支). 
 
-Marshall-Lerner condition:
-- The condition under which a depreciation of the domestic currency will decrease a trade deficit.
+**Marshall-Lerner condition**:
+
+= The condition under which a depreciation of the domestic currency will decrease a trade deficit.
 
 $$\begin{equation}
 W_X \epsilon_X + W_M (\epsilon_M-1) > 0
