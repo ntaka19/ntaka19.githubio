@@ -6,6 +6,7 @@ tags:
 - Economics
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ## Business Cycle
 
@@ -72,5 +73,25 @@ Equivalent explanation:
 
 * Liquidity trap
   * Highly elastic demand for money. (Interest rate vs. quantity)
+
+
+
+
+
+
+
+
+ **LOS. 18.j Explain the effects of exchange rates on countries' international trade and capital flows**
+
+
+### Elasticities Approach 
+
+Marshall-Lerner condition:
+- The condition under which a depreciation of the domestic currency will decrease a trade deficit.
+
+$$\begin{equation}
+W_X \epsilon_X + W_M (\epsilon_M-1) > 0
+\end{equation}$$
+
 
 
