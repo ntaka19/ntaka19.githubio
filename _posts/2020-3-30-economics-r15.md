@@ -93,5 +93,5 @@ $$\begin{equation}
 W_X \epsilon_X + W_M (\epsilon_M-1) > 0
 \end{equation}$$
 
-
-
+- $$W_X$$ : proportion of total exports.
+- $$\epsilon_X$$: absolute value of price elasticity of demand for imports. 
