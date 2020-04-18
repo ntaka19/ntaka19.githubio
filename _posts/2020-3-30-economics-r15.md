@@ -94,4 +94,19 @@ W_X \epsilon_X + W_M (\epsilon_M-1) > 0
 \end{equation}$$
 
 - $$W_X$$ : proportion of total exports.
-- $$\epsilon_X$$: absolute value of price elasticity of demand for imports. 
+- $$\epsilon_X$$: absolute value of price elasticity of demand for exports.
+
+
+
+### Absorption Approach
+
+
+$$\begin{equation}
+BT = Y - E
+\end{equation}$$
+
+- Y: domestic production of goods and services of national income
+- E: Domestic absorption of goods (=内需＝総支出)
+- BT: Balance of trade
+
+
