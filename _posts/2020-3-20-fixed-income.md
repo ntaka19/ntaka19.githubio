@@ -24,11 +24,18 @@ tags:
   
 
 
- \  | Issue | Denominated | Market
+ \  | Issued by | Denominated | Market
 ----|----|----|---- 
 **Domestic bonds** | Domestic | Domestic | Domestic
 **foreign bonds** | Foreign | Domestic | Domestic
-**Eurobonds** | Foreign A (Outside Jurisdiction) | Foreign B | Foreign (not B)
-**Global bonds** | | | 
+**Eurobonds** | Outside Jurisdiction of country | Foreign B | Foreign (not B)
 
 
+- A **global bond** is issued simultaneously in the Eurobond market and in at least one domestic bond market.
+- Domestic bond and foreign bonds are within the national bond market.
+
+
+Examples:
+- Foreign bonds: Panda bonds, yankee bonds, Samurai bond
+- "Eurobond, more specifically, a Eurodollar bond. Other types of Eurobonds are the Euroyen and Euroswiss bonds."
+- 
