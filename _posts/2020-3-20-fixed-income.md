@@ -32,6 +32,8 @@ tags:
 
 
 - A **global bond** is issued simultaneously in the Eurobond market and in at least one domestic bond market.
+([Ref](http://remington-work.blogspot.com/2009/07/foreign-vs-euro-vs-global-bonds.html))
+
 - Domestic bond and foreign bonds are within the national bond market.
 
 
