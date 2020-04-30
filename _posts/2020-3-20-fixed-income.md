@@ -44,6 +44,6 @@ A **global bond** is similar to the Eurobond but can also be traded and issued s
 
 
 Examples:
-- Foreign bonds: Panda bonds, yankee bonds, Samurai bond
+- Foreign bonds: Panda bonds, yankee bonds, Samurai bond (覚え方: ""サムライ"の国で債券を発行する"と外国人が言った。)
 - "Eurobond, more specifically, a Eurodollar bond. Other types of Eurobonds are the Euroyen and Euroswiss bonds."
 - 
