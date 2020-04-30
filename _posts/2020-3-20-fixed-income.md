@@ -28,7 +28,7 @@ tags:
 ----|----|----|---- 
 **Domestic bonds** | Domestic | Domestic | Domestic
 **foreign bonds** | Foreign | Domestic | Domestic
-**Eurobonds** | Outside Jurisdiction of country | Foreign B | Foreign (not B)
+**Eurobonds** | Outside Jurisdiction of any one country | Foreign B | Foreign (not B)
 
 
 - A **global bond** is issued simultaneously in the Eurobond market and in at least one domestic bond market.
