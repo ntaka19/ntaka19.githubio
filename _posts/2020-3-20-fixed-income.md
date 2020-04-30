@@ -34,7 +34,14 @@ tags:
 - A **global bond** is issued simultaneously in the Eurobond market and in at least one domestic bond market.
 ([Ref](http://remington-work.blogspot.com/2009/07/foreign-vs-euro-vs-global-bonds.html))
 
-- Domestic bond and foreign bonds are within the national bond market.
+
+  - "A French company that issues bonds in Japan denominated in U.S. dollars has issued a Eurobond, more specifically, a Eurodollar bond. Other types of Eurobonds are the Euroyen and Euroswiss bonds.
+
+A global bond is similar to the Eurobond but can also be traded and issued simultaneously in the country whose currency is used to value the bond. Drawing from our Eurobond example above, an example of a global bond will be one in which the French company issues bonds denominated in the U.S. dollar but offers the bonds in both Japan and U.S. markets."
+([Reference:Investopia](https://www.investopedia.com/terms/g/globalbonds.asp))
+
+
+- Domestic bond and foreign bonds are within the national bond market (Domestic bond market).
 
 
 Examples:
