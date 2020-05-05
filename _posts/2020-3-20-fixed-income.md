@@ -8,7 +8,7 @@ tags:
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 
-## Fixed Income
+## Two main factors of bonds 
 
 1.  Bond that promises series of interest payments in fized amounts and repay the princical amount at maturity.  
   - Increase in market interest rates(i.e. yields on bonds), decreases present value of bonds.(the ones bought before the change in yields.) 
@@ -21,7 +21,7 @@ tags:
  
 
 
-  
+## Issuance and Trading of bonds 
 
 
  \  | Issued by | Denominated | Market
@@ -46,4 +46,9 @@ A **global bond** is similar to the Eurobond but can also be traded and issued s
 Examples:
 - Foreign bonds: Panda bonds, yankee bonds, Samurai bond (覚え方: ""サムライ"の国で債券を発行する"と外国人が言った。)
 - "Eurobond, more specifically, a Eurodollar bond. Other types of Eurobonds are the Euroyen and Euroswiss bonds."
-- 
+
+
+
+
+## Issuing Entities
+
