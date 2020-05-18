@@ -23,7 +23,7 @@ tags:
 
 ### 1.1 ウィナー過程
 - ブラウン運動とも呼ばれる。
-- 仮定：一年後の「価格変動」が、$$\phi(0,1) $$に従う($$\phi(\mu, \sigma :=STD)$$。
+- 仮定：一年後の「価格変動」が、$$\phi(0,1) $$に従う($$\phi(\mu, \sigma :=STD $$ )。
 - $$\delta t$$ 後には$$\phi(0,\delta t)$$
 
 $$\begin{equation}
@@ -59,7 +59,11 @@ $$\begin{equation}
 
 
 
-### 
+### 1.4 株価の推移過程
+
+価格変動が一定ではなく、
+
+
 
 ## 2. Black-Scholes-Merton微分方程式
 
