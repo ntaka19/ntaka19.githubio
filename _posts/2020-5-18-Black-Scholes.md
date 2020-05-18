@@ -13,12 +13,12 @@ tags:
 
 **参考文献**<br>
 特筆がなければ、
-* フィナンシャルエンジニアリング (John Hull) 
+* フィナンシャルエンジニアリング(ジョン・ハル著)
 
 その他に、
-* ファイナンスのための確率解析(S.E. シュリーブ)
+* ファイナンスのための確率解析(S.E. シュリーブ著)
 * [数理手法VI](https://ocwx.ocw.u-tokyo.ac.jp/course_11403/)
-* [Alicia Solid Project](https://www.youtube.com/watch?v=NE1W0wJH8q8) 
+* [Aicia Solid Project](https://www.youtube.com/watch?v=NE1W0wJH8q8) 
 を適宜参照する。
 
 
