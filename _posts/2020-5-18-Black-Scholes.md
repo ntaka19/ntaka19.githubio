@@ -16,7 +16,7 @@ tags:
 * フィナンシャルエンジニアリング (John Hull) 
 
 その他に、
-* ファイナンスのための確率解析
+* ファイナンスのための確率解析(S.E. シュリーブ)
 * [数理手法VI](https://ocwx.ocw.u-tokyo.ac.jp/course_11403/)
 * [Alicia Solid Project](https://www.youtube.com/watch?v=NE1W0wJH8q8) 
 を適宜参照する。
