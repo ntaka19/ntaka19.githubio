@@ -7,6 +7,8 @@ tags:
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+**本記事の目的**<br>
 確率過程からブラックショールズ方程式の理解と応用まで
 
 **参考文献**<br>
@@ -66,6 +68,11 @@ $$\begin{equation}
 
 価格変動が一定ではなく、
 
+$$\begin{equation}
+d S=\mu S d t+\sigma S d z
+\end{equation}$$
+
+対数正規性について
 
 
 ### 1.5 Ito's Lemma
@@ -84,14 +91,24 @@ d G=\left(\frac{\partial G}{\partial x} a+\frac{\partial G}{\partial t}+\frac{1}
 ## 2. Black-Scholes-Merton微分方程式
 
 - **「デリバティブのポジションと株式のポジションからなる無リスクポートフォリオの収益は裁定機械がないなら、無リスク金利$$r$$と等しくないといけない」**
-- 共通の不確実要因を持っている。「原資産価格とデリバティブ価格には完全な相関がある」
+- 共通の不確実要因を持っている「原資産価格とデリバティブ価格には完全な相関がある」
 
+
+株価を$$S$$とし、それによるデリバティブの価格を$$f$$とする。
 
 
 $$\begin{equation}
 d S=\mu S d t+\sigma S d z
 \end{equation}$$
 
-に対して、
+に対してIto's Lemmaより
+
+$$\begin{equation}
+d f=\left(\frac{\partial f}{\partial S} \mu S+\frac{\partial f}{\partial t}+\frac{1}{2} \frac{\partial^{2} f}{\partial S^{2}} \sigma^{2} S^{2}\right) d t+\frac{\partial f}{\partial S} \sigma S d z
+\end{equation}$$
+
+が成立する。
+
+
 
 
