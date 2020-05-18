@@ -117,5 +117,25 @@ d f=\left(\frac{\partial f}{\partial S} \mu S+\frac{\partial f}{\partial t}+\fra
 が成立する。
 
 
+$$\begin{equation}
+\Pi=-f+\frac{\partial f}{\partial S} S
+\end{equation}$$
 
+$$\begin{equation}
+\Delta \Pi=-\Delta f+\frac{\partial f}{\partial S} \Delta S
+\end{equation}$$
+
+
+$$\begin{equation}
+\Delta \Pi=r \Pi \Delta t
+\end{equation}$$
+
+
+$$\begin{equation}
+\left(\frac{\partial f}{\partial t}+\frac{1}{2} \frac{\partial^{2} f}{\partial S^{2}} \sigma^{2} S^{2}\right) \Delta t=r\left(f-\frac{\partial f}{\partial S} S\right) \Delta t
+\end{equation}$$
+
+
+
+### リスク中立評価法について
 
