@@ -96,6 +96,13 @@ d G=\left(\frac{\partial G}{\partial x} a+\frac{\partial G}{\partial t}+\frac{1}
 
 株価を$$S$$とし、それによるデリバティブの価格を$$f$$とする。
 
+ポートフォリオについて、
+
+株式買い
+コールオプション売り
+の二つの点が考えられるが、
+
+
 
 $$\begin{equation}
 d S=\mu S d t+\sigma S d z
