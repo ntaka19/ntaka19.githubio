@@ -11,6 +11,7 @@ tags:
 
 特筆がなければ、
 * フィナンシャルエンジニアリング (John Hull) 
+
 その他に、
 * ファイナンスのための確率解析
 * [数理手法VI](https://ocwx.ocw.u-tokyo.ac.jp/course_11403/)
@@ -21,14 +22,17 @@ tags:
 ## 1. 株価変動モデル
 
 ### 1.1 ウィナー過程
-
-ブラウン運動
+- ブラウン運動とも呼ばれる。
+- 「価格変動」が、$$\Phi(0,1) $$に従う。
 
 $$\begin{equation}
-dx = adt + bdz
+\delta x = \epsilon \sqrt{\delta t}
 \end{equation}$$
 
-### 一般化したウィナー過程：
+ここで，$$\epsilon \~ \Phi(0,1) $$ . 
+
+
+### 1.2 一般化したウィナー過程：
 
 $$\begin{equation}
 dx = adt + bdz
@@ -40,7 +44,7 @@ $$\begin{equation}
 \delta x = a\delta t + b \epsilon \sqrt{\delta t}
 \end{equation}$$
 
-## 1.2 伊藤過程
+### 1.3 伊藤過程
 
 
 $$\begin{equation}
@@ -53,9 +57,14 @@ $$\begin{equation}
 \end{equation}$$
 
 
+
+### 
+
 ## 2. Black-Scholes-Merton微分方程式
 
-- **「デリバティブのポジションと株式のポジションからなる無リスクポートフォリオの収益は裁定機械がないなら、無リスク金利rと等しくないといけない」**
-  -　
+- **「デリバティブのポジションと株式のポジションからなる無リスクポートフォリオの収益は裁定機械がないなら、無リスク金利$$r$$と等しくないといけない」**
+- 共通の不確実要因を持っている。「原資産価格とデリバティブ価格には完全な相関がある」
+
+
 
 
