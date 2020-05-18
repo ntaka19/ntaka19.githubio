@@ -23,7 +23,7 @@ tags:
 
 ### 1.1 ウィナー過程
 - ブラウン運動とも呼ばれる。
-- 仮定：一年後の「価格変動」が、$$\phi(0,1) $$に従う($$\phi(\mu, \sigma :=STD $$ )。
+- 仮定：一年後の「価格変動」が、$$\phi(0,1) $$に従う($$\phi(\mu, \sigma $$ )。 ($$\mu, \sigma$$はそれぞれ平均と標準偏差)
 - $$\delta t$$ 後には$$\phi(0,\delta t)$$
 
 $$\begin{equation}
@@ -52,6 +52,8 @@ $$\begin{equation}
 dx = a(x,t) dt + b(x,t)dt
 \end{equation}$$
 
+
+に従う変数$$x$$と$$t$$からなる関数$$G$$を次のように表すことができる：
 
 $$\begin{equation}
 \delta x = a(x,t)\delta t + b(x,t) \epsilon \sqrt{\delta t}
