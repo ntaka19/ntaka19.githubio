@@ -18,6 +18,22 @@ References:
 
 
 
+## 1. 株価変動モデル
+
+### 1.1 ウィナー過程
+
+
+$$\begin{equation}
+dx = adt + bdz
+\end{equation}$$
+
+
+
+$$\begin{equation}
+\delta x = \delta dt + b \epsilon \sqrt{\delta t}
+\end{equation}$$
+
+
 
 ## Black-Scholes-Merton微分方程式
 
