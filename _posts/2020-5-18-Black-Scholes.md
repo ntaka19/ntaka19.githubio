@@ -30,9 +30,20 @@ dx = adt + bdz
 
 
 $$\begin{equation}
-\delta x = \delta dt + b \epsilon \sqrt{\delta t}
+\delta x = a\delta t + b \epsilon \sqrt{\delta t}
 \end{equation}$$
 
+## 1.2 伊藤過程
+
+
+$$\begin{equation}
+dx = a(x,t) dt + b(x,t)dt
+\end{equation}$$
+
+
+$$\begin{equation}
+\delta x = a(x,t)\delta t + b(x,t) \epsilon \sqrt{\delta t}
+\end{equation}$$
 
 
 ## Black-Scholes-Merton微分方程式
