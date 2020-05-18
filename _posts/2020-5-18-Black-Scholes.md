@@ -23,13 +23,14 @@ tags:
 
 ### 1.1 ウィナー過程
 - ブラウン運動とも呼ばれる。
-- 「価格変動」が、$$\Phi(0,1) $$に従う。
+- 仮定：一年後の「価格変動」が、$$\phi(0,1) $$に従う($$\phi(\mu, \sigma :=STD)$$。
+- $$\delta t$$ 後には$$\phi(0,\delta t)$$
 
 $$\begin{equation}
 \delta x = \epsilon \sqrt{\delta t}
 \end{equation}$$
 
-ここで，$$\epsilon \~ \Phi(0,1) $$ . 
+ここで，$$\epsilon 〜 \phi(0,1) $$ . 
 
 
 ### 1.2 一般化したウィナー過程：
