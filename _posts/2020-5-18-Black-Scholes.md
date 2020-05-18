@@ -65,6 +65,19 @@ $$\begin{equation}
 
 
 
+### 1.5 Ito's Lemma
+
+$$\begin{equation}
+dx = a(x,t) dt + b(x,t)dt
+\end{equation}$$
+
+に対して、
+
+$$\begin{equation}
+d G=\left(\frac{\partial G}{\partial x} a+\frac{\partial G}{\partial t}+\frac{1}{2} \frac{\partial^{2} G}{\partial x^{2}} b^{2}\right) d t+\frac{\partial G}{\partial x} b d z
+\end{equation}$$
+
+
 ## 2. Black-Scholes-Merton微分方程式
 
 - **「デリバティブのポジションと株式のポジションからなる無リスクポートフォリオの収益は裁定機械がないなら、無リスク金利$$r$$と等しくないといけない」**
