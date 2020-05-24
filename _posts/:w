@@ -130,7 +130,7 @@ $$\begin{equation}
 \Delta \Pi=-\Delta f+\frac{\partial f}{\partial S} \Delta S
 \end{equation}$$
 
-一方で，ポートフォリオは無リスク金利に従う変化をしなければならない。(無裁定機会)
+
 $$\begin{equation}
 \Delta \Pi=r \Pi \Delta t
 \end{equation}$$
@@ -142,26 +142,6 @@ $$\begin{equation}
 
 
 したがって、
-
-$$\begin{equation}
-\frac{\partial f}{\partial t}+r S \frac{\partial f}{\partial S}+\frac{1}{2} \sigma^{2} S^{2} \frac{\partial^{2} f}{\partial S^{2}}=r f
-\end{equation}$$
-
-が成立する。
-
-個々のオプションは、境界条件を設定し、解くことで得られる。
-
-コールオプション
-
-$$\begin{equation}
-f=\max (S-K, 0) \quad \text (t=T)
-\end{equation}$$
-
-
-$$\begin{equation}
-c=S_{0} N\left(d_{1}\right)-K e^{-r T} N\left(d_{2}\right)
-\end{equation}$$
-
 
 
 
