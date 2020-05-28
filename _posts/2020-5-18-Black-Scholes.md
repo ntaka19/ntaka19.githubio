@@ -57,8 +57,6 @@ dx = a(x,t) dt + b(x,t)dt
 \end{equation}$$
 
 
-に従う変数$$x$$と$$t$$からなる関数$$G$$を次のように表すことができる：
-
 $$\begin{equation}
 \delta x = a(x,t)\delta t + b(x,t) \epsilon \sqrt{\delta t}
 \end{equation}$$
@@ -67,10 +65,9 @@ $$\begin{equation}
 
 ### 1.4 株価の推移過程
 
-株価において，**期待収益率(=期待変動幅/株価) がウィナー仮定に従うと仮定**
+株価において，**収益率(=変動幅/株価) がウィナー過程に従うと仮定**
 
 
-期待収益率(価格変動率が一定)
 
 $$\begin{equation}
 \frac{ドリフト率}{S}= \mu 
