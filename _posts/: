@@ -105,10 +105,7 @@ $$\begin{equation}
 \end{equation}$$
 
 ただし，$$z$$は標準ウィーナー過程に従う。
-$$\sigma$$を株価のボラティリティと呼ぶ[^1]。
-
-[^1]:$$\frac{\delta S}{S} \sim \phi\left(\mu \delta t, \sigma^{2} \delta t\right)$$ から分かるように、ボラティリティは「収益率の単位時間あたりの標準偏差」と言うことができる。
-
+$$\sigma$$を株価のボラティリティ(すなわちと呼ぶ。
 
 
 Sの変動(価格幅)が幾何ブラウン運動に従うため、ドリフト率が定数であるウィナー過程ではない。したがって、より一般的な伊藤過程の一種であるが，
@@ -128,7 +125,6 @@ d G=\left(\frac{\partial G}{\partial x} a+\frac{\partial G}{\partial t}+\frac{1}
 \end{equation}$$
 
 に従う。
-
 
 ## 2. Black-Scholes-Merton微分方程式
 
