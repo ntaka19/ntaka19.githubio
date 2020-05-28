@@ -103,7 +103,7 @@ d S=\mu S d t+\sigma S d z
 
 
 $$\begin{equation}
-\frac{d S}{S]=\mu d t+\sigma d z
+\frac{d S}{S}=\mu dt+\sigma dz
 \end{equation}$$
 
 ただし，$$z$$は標準ウィーナー過程に従う。
