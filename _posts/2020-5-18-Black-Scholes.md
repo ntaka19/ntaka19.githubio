@@ -75,8 +75,9 @@ $$\begin{equation}
 
 
 期待収益率を定数として次のように定義する。
+
 $$\begin{equation}
-\mu = \frac{期待ドリフト(=dS)}{S} 
+\mu = \frac{期待ドリフト(=dS. 率ではない.)}{S} 
 \end{equation}$$
 
 
