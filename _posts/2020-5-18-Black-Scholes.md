@@ -83,11 +83,13 @@ $$\begin{equation}
 
 $$dt$$における$$S$$の増減の期待値は$$\mu S$$。
 ドリフト率を$$\mu S$$と定義する。
+
 $$\begin{equation}
 dS = \mu S dt 
 \end{equation}$$
 
-言い換えると、$$S$$の増減/$$S$$ は $$\mu$$。
+言い換えると、$$S$$の増減$$S$$ は $$\mu dt$$。
+
 $$\begin{equation}
 \frac{dS}{S} = \mu dt
 \end{equation}$$
