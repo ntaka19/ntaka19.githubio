@@ -45,6 +45,7 @@ dx = adt + bdz
 - a:ドリフト率
 - b:標準偏差
 
+
 $$\begin{equation}
 \delta x = a\delta t + b \epsilon \sqrt{\delta t}
 \end{equation}$$
@@ -57,6 +58,7 @@ dx = a(x,t) dt + b(x,t)dt
 \end{equation}$$
 
 
+
 $$\begin{equation}
 \delta x = a(x,t)\delta t + b(x,t) \epsilon \sqrt{\delta t}
 \end{equation}$$
@@ -66,12 +68,26 @@ $$\begin{equation}
 ### 1.4 株価の推移過程
 
 株価において，**収益率(=変動幅/株価) がウィナー過程に従うと仮定**
+- ボラティリティが0のウィナー過程は線形増加であり、これは利回りに対応する。投資家は株価の値によらず利回りを要求する。
 
+したがって、期待収益率を定数として次のように定義する。
+$$\begin{equation}
+\mu = \frac{ドリフト率}{S} 
+\end{equation}$$
 
 
 $$\begin{equation}
-\frac{ドリフト率}{S}= \mu 
+dS = \mu S dt 
 \end{equation}$$
+
+$$dt$$における$S$の増加は$$\mu S$$。
+言い換えると、$$S$$の増加/$$S$$ は $$\mu$$。
+
+$$\begin{equation}
+\frac{dS}{S} = \mu dt
+\end{equation}$$
+である。
+
 
 
 $$\begin{equation}
