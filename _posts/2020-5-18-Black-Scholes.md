@@ -81,7 +81,7 @@ $$\begin{equation}
 \end{equation}$$
 
 
-$$dt$$における$S$の増減の期待値は$$\mu S$$。
+$$dt$$における$$S$$の増減の期待値は$$\mu S$$。
 ドリフト率を$$\mu S$$と定義する。
 $$\begin{equation}
 dS = \mu S dt 
