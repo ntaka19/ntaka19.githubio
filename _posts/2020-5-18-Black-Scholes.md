@@ -99,11 +99,18 @@ $$\begin{equation}
 d S=\mu S d t+\sigma S d z
 \end{equation}$$
 
+
+$$\begin{equation}
+\frac{d S}{S]=\mu d t+\sigma d z
+\end{equation}$$
+
 ただし，$$z$$は標準ウィーナー過程に従う。
+$$\sigma$$を株価のボラティリティ(すなわちと呼ぶ。
+
 
 (Sは幾何ブラウン運動に従うため、ドリフト率が定数であるウィナー過程ではない。したがって、より一般的な伊藤過程の一種であるが，
 一方で「変動率(dS/S)がウィナー過程に従う」という表現は正しいのだろうか？
-「変動率」の変動($$\delta (\frac{\delta S}{S})))  = a \delta t + b\delta z$$になるためこの表現は間違いだと考えられる。)
+「変動率」の変動($$\delta (\frac{\delta S}{S}))  = a \delta t + b\delta z$$)
 
 ### 1.5 Ito's Lemma
 
