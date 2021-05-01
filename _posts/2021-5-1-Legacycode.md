@@ -12,10 +12,11 @@ tags:
 1. Dealing with legacy codes involves asking questions. 
 
 How to ask efficient questions?
-Before that, you need to be clear what you would like to acheive by asking these questions.
+Before that, you need to be clear what you would like to acheive by asking those questions.
 
 - Restrictions. Allowed syntax.
-- 
+- What existing modules can you use?
+- Where to implement your new module?
 
 
 At what point do you ask? 
@@ -27,6 +28,9 @@ At what point do you ask?
 2. How to dig in. 
 
 - 呼び出し履歴を追う。
+- 階層が深い場合はどうするか？
+メモをとる？
+
 - Error catch構文が置かれているところは「節点」である？
 
 
