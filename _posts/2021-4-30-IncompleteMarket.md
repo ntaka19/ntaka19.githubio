@@ -3,6 +3,7 @@ layout: post
 title: Incomplete Markets
 tags: 
 - FE 
+- Bjork
 ---
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
@@ -53,10 +54,8 @@ prices, then R = 5.
 
 #### Completeness and Arbitrage-free 
 
-When discussing completeness and absence of arbitrage it is important to
-realize that these concepts work in opposite directions.
-
-Let the number of random sources R be fixed.
+Completeness and absence of arbitrage work in opposite directions.
+Fixed number of random sources $$R$$. 
 
 -   Then every new underlying asset added to the model (without
     increasing R) will of course give us a potential opportunity of
