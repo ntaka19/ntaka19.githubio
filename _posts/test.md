@@ -1,3 +1,13 @@
+--
+layout: post
+title: Incomplete Markets2
+tags: 
+- FE 
+---
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
 -   [Fundamental theorem of asset
     pricing](#fundamental-theorem-of-asset-pricing)
 -   [Complete marketの定義 (Chapter 8
