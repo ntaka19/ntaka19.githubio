@@ -17,7 +17,7 @@ tags:
 
 ## Fundamental theorem of asset pricing
 
--  The First Fundamental Theorem of Asset Pricing: A discrete market, on a discrete probability space ($$\Omega$$, $\mathcal{F}$, $\mathcal{P}$), is arbitrage-free if, and only if, there exists at least one risk neutral probability measure that is equivalent to the original probability measure, P.
+-  The First Fundamental Theorem of Asset Pricing: A discrete market, on a discrete probability space ($$\Omega$$, $$\mathcal{F}$$, $$\mathcal{P}$$), is arbitrage-free if, and only if, there exists at least one risk neutral probability measure that is equivalent to the original probability measure, P.
 
 -  The Second Fundamental Theorem of Asset Pricing: An arbitrage-free market (S,B) consisting of a collection of stocks S and a risk-free bond B is complete if and only if there exists a unique risk-neutral measure that is equivalent to P and has numeraire B.
 
