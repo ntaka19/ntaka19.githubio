@@ -8,7 +8,17 @@ tags:
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+## Intro
+
+Concept of (in)complete markets is discussed in different areas from different contexts.
+Theoretical definition can be found in the Financial engineering area.(note that scope of defition may be narrower than that of other Econs area)
+
+
 ## Fundamental theorem of asset pricing
+
+Before we go on to the definition, it is better to get concepts of "complete market" clearer. 
+A quick way is to recap two fundamental theorems.
+
 
 1.  The First Fundamental Theorem of Asset Pricing: A discrete market,
     on a discrete probability space
