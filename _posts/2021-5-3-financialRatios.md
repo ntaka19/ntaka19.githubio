@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Financial Ratios, Decision Rules　
+title: Financial Ratios, Rules and Logic　
 tags: 
 - CFA1
 - FRA
