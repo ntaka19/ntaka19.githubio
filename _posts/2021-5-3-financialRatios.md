@@ -14,8 +14,8 @@ tags:
 ----|----|----|----| 
 **ROE** | $$\frac{NI}{ BV_{t-1} (\text{or average } BV_t)}$$ , where BV:Book value at term $$t$$ | measures management efficiency. | DuPont Analysis: 収益性 $$\times$$ 資産の効率性 $$\times$$ 財政状態
 **DOL (Degree of operating leverage)** |  $$\frac{\Delta \text{EBIT}}{\text{EBIT}} / \frac{\Delta \text{Q}}{\text{Q}} $$ where Q:sales.
-**DFL (Degree of financial leverage)** |  
-**DTL (Degree of total leverage)** |  
+**DFL (Degree of financial leverage)** |  $$\frac{\text{percentage change in EPS}}{\text{percentage change in EBIT}} $$,$$\frac{\text{EBIT}}{\text{EBIT-interest}} $$
+**DTL (Degree of total leverage)** |  $$\text{DTL} = \text{DOL} \times \text{DFL} $$, $$\frac{\text{S-TVC}}{\text{S-TVC-F-I}} | 
 
 
 # Corporate Finance

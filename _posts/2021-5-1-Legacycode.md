@@ -32,5 +32,11 @@ At what point do you ask?
 メモをとる？
 
 - Error catch構文が置かれているところは「節点」である？
+```
+error code
+```
+
+
+
 
 
